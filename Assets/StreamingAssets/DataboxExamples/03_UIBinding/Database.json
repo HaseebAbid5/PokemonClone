@@ -1,0 +1,38 @@
+[
+    {
+        "Key": "Data",
+        "Value": {
+            "entries": [
+                {
+                    "Key": "UIValues",
+                    "Value": {
+                        "selected": false,
+                        "data": {
+                            "Float": {
+                                "FloatType": {
+                                    "_float": 0.0,
+                                    "InitValue": 0.0,
+                                    "$type": "FloatType"
+                                }
+                            },
+                            "Toggle": {
+                                "BoolType": {
+                                    "_bool": false,
+                                    "InitValue": false,
+                                    "$type": "BoolType"
+                                }
+                            },
+                            "InputString": {
+                                "StringType": {
+                                    "_string": "11",
+                                    "InitValue": null,
+                                    "$type": "StringType"
+                                }
+                            }
+                        }
+                    }
+                }
+            ]
+        }
+    }
+]

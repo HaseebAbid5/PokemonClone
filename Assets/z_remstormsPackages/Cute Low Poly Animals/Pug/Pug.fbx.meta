@@ -1,0 +1,342 @@
+fileFormatVersion: 2
+guid: 8069e8e0b4f8cfc42baf87d88010d0f1
+ModelImporter:
+  serializedVersion: 22
+  fileIDToRecycleName:
+    100000: BackElbow_L
+    100002: BackElbow_R
+    100004: backLeg1_L
+    100006: backLeg1_R
+    100008: backLeg2_L
+    100010: backLeg2_R
+    100012: BackPaw_IK_L
+    100014: BackPaw_IK_R
+    100016: backPaw_L
+    100018: backPaw_R
+    100020: ear_L
+    100022: ear_L_001
+    100024: ear_R
+    100026: ear_R_001
+    100028: eye_L
+    100030: eye_R
+    100032: Front_Elbow_L
+    100034: Front_Elbow_R
+    100036: frontLeg1_L
+    100038: frontLeg1_R
+    100040: frontLeg2_L
+    100042: frontLeg2_R
+    100044: FrontPaw_IK_L
+    100046: FrontPaw_IK_R
+    100048: frontPaw_L
+    100050: frontPaw_R
+    100052: Head
+    100054: Low_Poly_Pug_001
+    100056: mouthbone
+    100058: nosebone
+    100060: //RootNode
+    100062: Pug_Skeleton
+    100064: RootBone
+    100066: Spine_002
+    100068: Tail
+    100070: Tail_001
+    100072: Tail_002
+    100074: Tail_003
+    100076: Tail_004
+    400000: BackElbow_L
+    400002: BackElbow_R
+    400004: backLeg1_L
+    400006: backLeg1_R
+    400008: backLeg2_L
+    400010: backLeg2_R
+    400012: BackPaw_IK_L
+    400014: BackPaw_IK_R
+    400016: backPaw_L
+    400018: backPaw_R
+    400020: ear_L
+    400022: ear_L_001
+    400024: ear_R
+    400026: ear_R_001
+    400028: eye_L
+    400030: eye_R
+    400032: Front_Elbow_L
+    400034: Front_Elbow_R
+    400036: frontLeg1_L
+    400038: frontLeg1_R
+    400040: frontLeg2_L
+    400042: frontLeg2_R
+    400044: FrontPaw_IK_L
+    400046: FrontPaw_IK_R
+    400048: frontPaw_L
+    400050: frontPaw_R
+    400052: Head
+    400054: Low_Poly_Pug_001
+    400056: mouthbone
+    400058: nosebone
+    400060: //RootNode
+    400062: Pug_Skeleton
+    400064: RootBone
+    400066: Spine_002
+    400068: Tail
+    400070: Tail_001
+    400072: Tail_002
+    400074: Tail_003
+    400076: Tail_004
+    2100000: Pug_Body__Pug_Texture_Maker_psd_001
+    4300000: Low_Poly_Pug_001
+    7400000: 0_Pug_Empty
+    7400002: Pug_Barking
+    7400004: Pug_Idle
+    7400006: Pug_Jump_Up
+    7400008: Pug_Run_Cycle
+    7400010: Pug_Walk_Cycle
+    9500000: //RootNode
+    13700000: Low_Poly_Pug_001
+  externalObjects: {}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations:
+    - serializedVersion: 16
+      name: 0_Pug_Empty
+      takeName: 0_Pug_Empty
+      firstFrame: -1
+      lastFrame: 0
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: Pug_Barking
+      takeName: Pug_Barking
+      firstFrame: -1
+      lastFrame: 119
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 1
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: Pug_Idle
+      takeName: Pug_Idle
+      firstFrame: -1
+      lastFrame: 159
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 1
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: Pug_Jump_Up
+      takeName: Pug_Jump_Up
+      firstFrame: -1
+      lastFrame: 54
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: Pug_Run_Cycle
+      takeName: Pug_Run_Cycle
+      firstFrame: -1
+      lastFrame: 44
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 1
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: Pug_Walk_Cycle
+      takeName: Pug_Walk_Cycle
+      firstFrame: -1
+      lastFrame: 49
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 1
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 0
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
