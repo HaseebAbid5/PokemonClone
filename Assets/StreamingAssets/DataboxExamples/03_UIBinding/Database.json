@@ -10,7 +10,7 @@
                         "data": {
                             "Float": {
                                 "FloatType": {
-                                    "_float": 0.0,
+                                    "_float": 0.75,
                                     "InitValue": 0.0,
                                     "$type": "FloatType"
                                 }

@@ -1,0 +1,2333 @@
+[
+    {
+        "Key": "Assets",
+        "Value": {
+            "entries": [
+                {
+                    "Key": "-43136",
+                    "Value": {
+                        "selected": false,
+                        "data": {
+                            "Position": {
+                                "Vector3Type": {
+                                    "Value": {
+                                        "x": -6.0,
+                                        "y": 0.0,
+                                        "z": -6.0
+                                    },
+                                    "_vector3": {
+                                        "x": -6.0,
+                                        "y": 0.0,
+                                        "z": -6.0
+                                    },
+                                    "InitValue": {
+                                        "x": 0.0,
+                                        "y": 0.0,
+                                        "z": 0.0
+                                    },
+                                    "$type": "Vector3Type"
+                                }
+                            },
+                            "Color": {
+                                "ColorType": {
+                                    "_color": {
+                                        "r": 0.0,
+                                        "g": 0.0,
+                                        "b": 0.0,
+                                        "a": 0.0
+                                    },
+                                    "InitValue": {
+                                        "r": 0.0,
+                                        "g": 0.0,
+                                        "b": 0.0,
+                                        "a": 0.0
+                                    },
+                                    "$type": "ColorType"
+                                }
+                            },
+                            "Thumb": {
+                                "ResourceType": {
+                                    "resourcePath": "thumbCube",
+                                    "fullPath": "Assets/Demo/04_Advanced/Resources/thumbCube.png",
+                                    "objType": "Texture2D",
+                                    "icon": "Texture2D Icon",
+                                    "$type": "ResourceType"
+                                }
+                            },
+                            "Go": {
+                                "ResourceType": {
+                                    "resourcePath": "Cube",
+                                    "fullPath": "Assets/Demo/04_Advanced/Resources/Cube.prefab",
+                                    "objType": "GameObject",
+                                    "icon": "d_Prefab Icon",
+                                    "$type": "ResourceType"
+                                }
+                            },
+                            "CoroutineOffset": {
+                                "FloatType": {
+                                    "_float": 0.0,
+                                    "InitValue": 0.0,
+                                    "$type": "FloatType"
+                                }
+                            },
+                            "Tech": {
+                                "TechType": {
+                                    "ResearchTime": 3.0,
+                                    "DataTable": "Assets",
+                                    "Dependency": "Cube",
+                                    "IsRootLevel": true,
+                                    "_unlocked": true,
+                                    "InitUnlocked": true,
+                                    "_isResearched": true,
+                                    "InitIsResearched": true,
+                                    "$type": "TechType"
+                                }
+                            }
+                        }
+                    }
+                },
+                {
+                    "Key": "-43152",
+                    "Value": {
+                        "selected": false,
+                        "data": {
+                            "Position": {
+                                "Vector3Type": {
+                                    "Value": {
+                                        "x": -6.0,
+                                        "y": 0.0,
+                                        "z": -5.0
+                                    },
+                                    "_vector3": {
+                                        "x": -6.0,
+                                        "y": 0.0,
+                                        "z": -5.0
+                                    },
+                                    "InitValue": {
+                                        "x": 0.0,
+                                        "y": 0.0,
+                                        "z": 0.0
+                                    },
+                                    "$type": "Vector3Type"
+                                }
+                            },
+                            "Color": {
+                                "ColorType": {
+                                    "_color": {
+                                        "r": 0.0,
+                                        "g": 0.0,
+                                        "b": 0.0,
+                                        "a": 0.0
+                                    },
+                                    "InitValue": {
+                                        "r": 0.0,
+                                        "g": 0.0,
+                                        "b": 0.0,
+                                        "a": 0.0
+                                    },
+                                    "$type": "ColorType"
+                                }
+                            },
+                            "Thumb": {
+                                "ResourceType": {
+                                    "resourcePath": "thumbCube",
+                                    "fullPath": "Assets/Demo/04_Advanced/Resources/thumbCube.png",
+                                    "objType": "Texture2D",
+                                    "icon": "Texture2D Icon",
+                                    "$type": "ResourceType"
+                                }
+                            },
+                            "Go": {
+                                "ResourceType": {
+                                    "resourcePath": "Cube",
+                                    "fullPath": "Assets/Demo/04_Advanced/Resources/Cube.prefab",
+                                    "objType": "GameObject",
+                                    "icon": "d_Prefab Icon",
+                                    "$type": "ResourceType"
+                                }
+                            },
+                            "CoroutineOffset": {
+                                "FloatType": {
+                                    "_float": 0.0,
+                                    "InitValue": 0.0,
+                                    "$type": "FloatType"
+                                }
+                            },
+                            "Tech": {
+                                "TechType": {
+                                    "ResearchTime": 3.0,
+                                    "DataTable": "Assets",
+                                    "Dependency": "Cube",
+                                    "IsRootLevel": true,
+                                    "_unlocked": true,
+                                    "InitUnlocked": true,
+                                    "_isResearched": true,
+                                    "InitIsResearched": true,
+                                    "$type": "TechType"
+                                }
+                            }
+                        }
+                    }
+                },
+                {
+                    "Key": "-43168",
+                    "Value": {
+                        "selected": false,
+                        "data": {
+                            "Position": {
+                                "Vector3Type": {
+                                    "Value": {
+                                        "x": 0.0,
+                                        "y": 0.0,
+                                        "z": 10.0
+                                    },
+                                    "_vector3": {
+                                        "x": 0.0,
+                                        "y": 0.0,
+                                        "z": 10.0
+                                    },
+                                    "InitValue": {
+                                        "x": 0.0,
+                                        "y": 0.0,
+                                        "z": 0.0
+                                    },
+                                    "$type": "Vector3Type"
+                                }
+                            },
+                            "Color": {
+                                "ColorType": {
+                                    "_color": {
+                                        "r": 0.0,
+                                        "g": 0.0,
+                                        "b": 0.0,
+                                        "a": 0.0
+                                    },
+                                    "InitValue": {
+                                        "r": 0.0,
+                                        "g": 0.0,
+                                        "b": 0.0,
+                                        "a": 0.0
+                                    },
+                                    "$type": "ColorType"
+                                }
+                            },
+                            "Thumb": {
+                                "ResourceType": {
+                                    "resourcePath": "thumbCube",
+                                    "fullPath": "Assets/Demo/04_Advanced/Resources/thumbCube.png",
+                                    "objType": "Texture2D",
+                                    "icon": "Texture2D Icon",
+                                    "$type": "ResourceType"
+                                }
+                            },
+                            "Go": {
+                                "ResourceType": {
+                                    "resourcePath": "Cube",
+                                    "fullPath": "Assets/Demo/04_Advanced/Resources/Cube.prefab",
+                                    "objType": "GameObject",
+                                    "icon": "d_Prefab Icon",
+                                    "$type": "ResourceType"
+                                }
+                            },
+                            "CoroutineOffset": {
+                                "FloatType": {
+                                    "_float": 0.0,
+                                    "InitValue": 0.0,
+                                    "$type": "FloatType"
+                                }
+                            },
+                            "Tech": {
+                                "TechType": {
+                                    "ResearchTime": 3.0,
+                                    "DataTable": "Assets",
+                                    "Dependency": "Cube",
+                                    "IsRootLevel": true,
+                                    "_unlocked": true,
+                                    "InitUnlocked": true,
+                                    "_isResearched": true,
+                                    "InitIsResearched": true,
+                                    "$type": "TechType"
+                                }
+                            }
+                        }
+                    }
+                },
+                {
+                    "Key": "-43184",
+                    "Value": {
+                        "selected": false,
+                        "data": {
+                            "Position": {
+                                "Vector3Type": {
+                                    "Value": {
+                                        "x": 6.0,
+                                        "y": 0.0,
+                                        "z": -2.0
+                                    },
+                                    "_vector3": {
+                                        "x": 6.0,
+                                        "y": 0.0,
+                                        "z": -2.0
+                                    },
+                                    "InitValue": {
+                                        "x": 0.0,
+                                        "y": 0.0,
+                                        "z": 0.0
+                                    },
+                                    "$type": "Vector3Type"
+                                }
+                            },
+                            "Color": {
+                                "ColorType": {
+                                    "_color": {
+                                        "r": 0.0,
+                                        "g": 0.0,
+                                        "b": 0.0,
+                                        "a": 0.0
+                                    },
+                                    "InitValue": {
+                                        "r": 0.0,
+                                        "g": 0.0,
+                                        "b": 0.0,
+                                        "a": 0.0
+                                    },
+                                    "$type": "ColorType"
+                                }
+                            },
+                            "Thumb": {
+                                "ResourceType": {
+                                    "resourcePath": "thumbCube",
+                                    "fullPath": "Assets/Demo/04_Advanced/Resources/thumbCube.png",
+                                    "objType": "Texture2D",
+                                    "icon": "Texture2D Icon",
+                                    "$type": "ResourceType"
+                                }
+                            },
+                            "Go": {
+                                "ResourceType": {
+                                    "resourcePath": "Cube",
+                                    "fullPath": "Assets/Demo/04_Advanced/Resources/Cube.prefab",
+                                    "objType": "GameObject",
+                                    "icon": "d_Prefab Icon",
+                                    "$type": "ResourceType"
+                                }
+                            },
+                            "CoroutineOffset": {
+                                "FloatType": {
+                                    "_float": 0.0,
+                                    "InitValue": 0.0,
+                                    "$type": "FloatType"
+                                }
+                            },
+                            "Tech": {
+                                "TechType": {
+                                    "ResearchTime": 3.0,
+                                    "DataTable": "Assets",
+                                    "Dependency": "Cube",
+                                    "IsRootLevel": true,
+                                    "_unlocked": true,
+                                    "InitUnlocked": true,
+                                    "_isResearched": true,
+                                    "InitIsResearched": true,
+                                    "$type": "TechType"
+                                }
+                            }
+                        }
+                    }
+                },
+                {
+                    "Key": "-43200",
+                    "Value": {
+                        "selected": false,
+                        "data": {
+                            "Position": {
+                                "Vector3Type": {
+                                    "Value": {
+                                        "x": -5.0,
+                                        "y": 0.0,
+                                        "z": -11.0
+                                    },
+                                    "_vector3": {
+                                        "x": -5.0,
+                                        "y": 0.0,
+                                        "z": -11.0
+                                    },
+                                    "InitValue": {
+                                        "x": 0.0,
+                                        "y": 0.0,
+                                        "z": 0.0
+                                    },
+                                    "$type": "Vector3Type"
+                                }
+                            },
+                            "Color": {
+                                "ColorType": {
+                                    "_color": {
+                                        "r": 0.0,
+                                        "g": 0.0,
+                                        "b": 0.0,
+                                        "a": 0.0
+                                    },
+                                    "InitValue": {
+                                        "r": 0.0,
+                                        "g": 0.0,
+                                        "b": 0.0,
+                                        "a": 0.0
+                                    },
+                                    "$type": "ColorType"
+                                }
+                            },
+                            "Thumb": {
+                                "ResourceType": {
+                                    "resourcePath": "thumbCube",
+                                    "fullPath": "Assets/Demo/04_Advanced/Resources/thumbCube.png",
+                                    "objType": "Texture2D",
+                                    "icon": "Texture2D Icon",
+                                    "$type": "ResourceType"
+                                }
+                            },
+                            "Go": {
+                                "ResourceType": {
+                                    "resourcePath": "Cube",
+                                    "fullPath": "Assets/Demo/04_Advanced/Resources/Cube.prefab",
+                                    "objType": "GameObject",
+                                    "icon": "d_Prefab Icon",
+                                    "$type": "ResourceType"
+                                }
+                            },
+                            "CoroutineOffset": {
+                                "FloatType": {
+                                    "_float": 0.0,
+                                    "InitValue": 0.0,
+                                    "$type": "FloatType"
+                                }
+                            },
+                            "Tech": {
+                                "TechType": {
+                                    "ResearchTime": 3.0,
+                                    "DataTable": "Assets",
+                                    "Dependency": "Cube",
+                                    "IsRootLevel": true,
+                                    "_unlocked": true,
+                                    "InitUnlocked": true,
+                                    "_isResearched": true,
+                                    "InitIsResearched": true,
+                                    "$type": "TechType"
+                                }
+                            }
+                        }
+                    }
+                },
+                {
+                    "Key": "-43216",
+                    "Value": {
+                        "selected": false,
+                        "data": {
+                            "Position": {
+                                "Vector3Type": {
+                                    "Value": {
+                                        "x": -17.0,
+                                        "y": 0.0,
+                                        "z": -8.0
+                                    },
+                                    "_vector3": {
+                                        "x": -17.0,
+                                        "y": 0.0,
+                                        "z": -8.0
+                                    },
+                                    "InitValue": {
+                                        "x": 0.0,
+                                        "y": 0.0,
+                                        "z": 0.0
+                                    },
+                                    "$type": "Vector3Type"
+                                }
+                            },
+                            "Color": {
+                                "ColorType": {
+                                    "_color": {
+                                        "r": 0.0,
+                                        "g": 0.0,
+                                        "b": 0.0,
+                                        "a": 0.0
+                                    },
+                                    "InitValue": {
+                                        "r": 0.0,
+                                        "g": 0.0,
+                                        "b": 0.0,
+                                        "a": 0.0
+                                    },
+                                    "$type": "ColorType"
+                                }
+                            },
+                            "Thumb": {
+                                "ResourceType": {
+                                    "resourcePath": "thumbCube",
+                                    "fullPath": "Assets/Demo/04_Advanced/Resources/thumbCube.png",
+                                    "objType": "Texture2D",
+                                    "icon": "Texture2D Icon",
+                                    "$type": "ResourceType"
+                                }
+                            },
+                            "Go": {
+                                "ResourceType": {
+                                    "resourcePath": "Cube",
+                                    "fullPath": "Assets/Demo/04_Advanced/Resources/Cube.prefab",
+                                    "objType": "GameObject",
+                                    "icon": "d_Prefab Icon",
+                                    "$type": "ResourceType"
+                                }
+                            },
+                            "CoroutineOffset": {
+                                "FloatType": {
+                                    "_float": 0.0,
+                                    "InitValue": 0.0,
+                                    "$type": "FloatType"
+                                }
+                            },
+                            "Tech": {
+                                "TechType": {
+                                    "ResearchTime": 3.0,
+                                    "DataTable": "Assets",
+                                    "Dependency": "Cube",
+                                    "IsRootLevel": true,
+                                    "_unlocked": true,
+                                    "InitUnlocked": true,
+                                    "_isResearched": true,
+                                    "InitIsResearched": true,
+                                    "$type": "TechType"
+                                }
+                            }
+                        }
+                    }
+                },
+                {
+                    "Key": "-43232",
+                    "Value": {
+                        "selected": false,
+                        "data": {
+                            "Position": {
+                                "Vector3Type": {
+                                    "Value": {
+                                        "x": -14.0,
+                                        "y": 0.0,
+                                        "z": 2.0
+                                    },
+                                    "_vector3": {
+                                        "x": -14.0,
+                                        "y": 0.0,
+                                        "z": 2.0
+                                    },
+                                    "InitValue": {
+                                        "x": 0.0,
+                                        "y": 0.0,
+                                        "z": 0.0
+                                    },
+                                    "$type": "Vector3Type"
+                                }
+                            },
+                            "Color": {
+                                "ColorType": {
+                                    "_color": {
+                                        "r": 0.0,
+                                        "g": 0.0,
+                                        "b": 0.0,
+                                        "a": 0.0
+                                    },
+                                    "InitValue": {
+                                        "r": 0.0,
+                                        "g": 0.0,
+                                        "b": 0.0,
+                                        "a": 0.0
+                                    },
+                                    "$type": "ColorType"
+                                }
+                            },
+                            "Thumb": {
+                                "ResourceType": {
+                                    "resourcePath": "thumbCube",
+                                    "fullPath": "Assets/Demo/04_Advanced/Resources/thumbCube.png",
+                                    "objType": "Texture2D",
+                                    "icon": "Texture2D Icon",
+                                    "$type": "ResourceType"
+                                }
+                            },
+                            "Go": {
+                                "ResourceType": {
+                                    "resourcePath": "Cube",
+                                    "fullPath": "Assets/Demo/04_Advanced/Resources/Cube.prefab",
+                                    "objType": "GameObject",
+                                    "icon": "d_Prefab Icon",
+                                    "$type": "ResourceType"
+                                }
+                            },
+                            "CoroutineOffset": {
+                                "FloatType": {
+                                    "_float": 0.0,
+                                    "InitValue": 0.0,
+                                    "$type": "FloatType"
+                                }
+                            },
+                            "Tech": {
+                                "TechType": {
+                                    "ResearchTime": 3.0,
+                                    "DataTable": "Assets",
+                                    "Dependency": "Cube",
+                                    "IsRootLevel": true,
+                                    "_unlocked": true,
+                                    "InitUnlocked": true,
+                                    "_isResearched": true,
+                                    "InitIsResearched": true,
+                                    "$type": "TechType"
+                                }
+                            }
+                        }
+                    }
+                },
+                {
+                    "Key": "-43248",
+                    "Value": {
+                        "selected": false,
+                        "data": {
+                            "Position": {
+                                "Vector3Type": {
+                                    "Value": {
+                                        "x": -1.0,
+                                        "y": 0.0,
+                                        "z": 1.0
+                                    },
+                                    "_vector3": {
+                                        "x": -1.0,
+                                        "y": 0.0,
+                                        "z": 1.0
+                                    },
+                                    "InitValue": {
+                                        "x": 0.0,
+                                        "y": 0.0,
+                                        "z": 0.0
+                                    },
+                                    "$type": "Vector3Type"
+                                }
+                            },
+                            "Color": {
+                                "ColorType": {
+                                    "_color": {
+                                        "r": 0.0,
+                                        "g": 0.0,
+                                        "b": 0.0,
+                                        "a": 0.0
+                                    },
+                                    "InitValue": {
+                                        "r": 0.0,
+                                        "g": 0.0,
+                                        "b": 0.0,
+                                        "a": 0.0
+                                    },
+                                    "$type": "ColorType"
+                                }
+                            },
+                            "Thumb": {
+                                "ResourceType": {
+                                    "resourcePath": "thumbCube",
+                                    "fullPath": "Assets/Demo/04_Advanced/Resources/thumbCube.png",
+                                    "objType": "Texture2D",
+                                    "icon": "Texture2D Icon",
+                                    "$type": "ResourceType"
+                                }
+                            },
+                            "Go": {
+                                "ResourceType": {
+                                    "resourcePath": "Cube",
+                                    "fullPath": "Assets/Demo/04_Advanced/Resources/Cube.prefab",
+                                    "objType": "GameObject",
+                                    "icon": "d_Prefab Icon",
+                                    "$type": "ResourceType"
+                                }
+                            },
+                            "CoroutineOffset": {
+                                "FloatType": {
+                                    "_float": 0.0,
+                                    "InitValue": 0.0,
+                                    "$type": "FloatType"
+                                }
+                            },
+                            "Tech": {
+                                "TechType": {
+                                    "ResearchTime": 3.0,
+                                    "DataTable": "Assets",
+                                    "Dependency": "Cube",
+                                    "IsRootLevel": true,
+                                    "_unlocked": true,
+                                    "InitUnlocked": true,
+                                    "_isResearched": true,
+                                    "InitIsResearched": true,
+                                    "$type": "TechType"
+                                }
+                            }
+                        }
+                    }
+                },
+                {
+                    "Key": "-43264",
+                    "Value": {
+                        "selected": false,
+                        "data": {
+                            "Position": {
+                                "Vector3Type": {
+                                    "Value": {
+                                        "x": 2.0,
+                                        "y": 0.0,
+                                        "z": -13.0
+                                    },
+                                    "_vector3": {
+                                        "x": 2.0,
+                                        "y": 0.0,
+                                        "z": -13.0
+                                    },
+                                    "InitValue": {
+                                        "x": 0.0,
+                                        "y": 0.0,
+                                        "z": 0.0
+                                    },
+                                    "$type": "Vector3Type"
+                                }
+                            },
+                            "Color": {
+                                "ColorType": {
+                                    "_color": {
+                                        "r": 0.0,
+                                        "g": 0.0,
+                                        "b": 0.0,
+                                        "a": 0.0
+                                    },
+                                    "InitValue": {
+                                        "r": 0.0,
+                                        "g": 0.0,
+                                        "b": 0.0,
+                                        "a": 0.0
+                                    },
+                                    "$type": "ColorType"
+                                }
+                            },
+                            "Thumb": {
+                                "ResourceType": {
+                                    "resourcePath": "thumbCube",
+                                    "fullPath": "Assets/Demo/04_Advanced/Resources/thumbCube.png",
+                                    "objType": "Texture2D",
+                                    "icon": "Texture2D Icon",
+                                    "$type": "ResourceType"
+                                }
+                            },
+                            "Go": {
+                                "ResourceType": {
+                                    "resourcePath": "Cube",
+                                    "fullPath": "Assets/Demo/04_Advanced/Resources/Cube.prefab",
+                                    "objType": "GameObject",
+                                    "icon": "d_Prefab Icon",
+                                    "$type": "ResourceType"
+                                }
+                            },
+                            "CoroutineOffset": {
+                                "FloatType": {
+                                    "_float": 0.0,
+                                    "InitValue": 0.0,
+                                    "$type": "FloatType"
+                                }
+                            },
+                            "Tech": {
+                                "TechType": {
+                                    "ResearchTime": 3.0,
+                                    "DataTable": "Assets",
+                                    "Dependency": "Cube",
+                                    "IsRootLevel": true,
+                                    "_unlocked": true,
+                                    "InitUnlocked": true,
+                                    "_isResearched": true,
+                                    "InitIsResearched": true,
+                                    "$type": "TechType"
+                                }
+                            }
+                        }
+                    }
+                },
+                {
+                    "Key": "-43280",
+                    "Value": {
+                        "selected": false,
+                        "data": {
+                            "Position": {
+                                "Vector3Type": {
+                                    "Value": {
+                                        "x": -42.0,
+                                        "y": 0.0,
+                                        "z": 0.0
+                                    },
+                                    "_vector3": {
+                                        "x": -42.0,
+                                        "y": 0.0,
+                                        "z": 0.0
+                                    },
+                                    "InitValue": {
+                                        "x": 0.0,
+                                        "y": 0.0,
+                                        "z": 0.0
+                                    },
+                                    "$type": "Vector3Type"
+                                }
+                            },
+                            "Color": {
+                                "ColorType": {
+                                    "_color": {
+                                        "r": 0.0,
+                                        "g": 0.0,
+                                        "b": 0.0,
+                                        "a": 0.0
+                                    },
+                                    "InitValue": {
+                                        "r": 0.0,
+                                        "g": 0.0,
+                                        "b": 0.0,
+                                        "a": 0.0
+                                    },
+                                    "$type": "ColorType"
+                                }
+                            },
+                            "Thumb": {
+                                "ResourceType": {
+                                    "resourcePath": "thumbCube",
+                                    "fullPath": "Assets/Demo/04_Advanced/Resources/thumbCube.png",
+                                    "objType": "Texture2D",
+                                    "icon": "Texture2D Icon",
+                                    "$type": "ResourceType"
+                                }
+                            },
+                            "Go": {
+                                "ResourceType": {
+                                    "resourcePath": "Cube",
+                                    "fullPath": "Assets/Demo/04_Advanced/Resources/Cube.prefab",
+                                    "objType": "GameObject",
+                                    "icon": "d_Prefab Icon",
+                                    "$type": "ResourceType"
+                                }
+                            },
+                            "CoroutineOffset": {
+                                "FloatType": {
+                                    "_float": 0.0,
+                                    "InitValue": 0.0,
+                                    "$type": "FloatType"
+                                }
+                            },
+                            "Tech": {
+                                "TechType": {
+                                    "ResearchTime": 3.0,
+                                    "DataTable": "Assets",
+                                    "Dependency": "Cube",
+                                    "IsRootLevel": true,
+                                    "_unlocked": true,
+                                    "InitUnlocked": true,
+                                    "_isResearched": true,
+                                    "InitIsResearched": true,
+                                    "$type": "TechType"
+                                }
+                            }
+                        }
+                    }
+                },
+                {
+                    "Key": "-43632",
+                    "Value": {
+                        "selected": false,
+                        "data": {
+                            "Position": {
+                                "Vector3Type": {
+                                    "Value": {
+                                        "x": 1.0,
+                                        "y": 0.0,
+                                        "z": 34.0
+                                    },
+                                    "_vector3": {
+                                        "x": 1.0,
+                                        "y": 0.0,
+                                        "z": 34.0
+                                    },
+                                    "InitValue": {
+                                        "x": 0.0,
+                                        "y": 0.0,
+                                        "z": 0.0
+                                    },
+                                    "$type": "Vector3Type"
+                                }
+                            },
+                            "Color": {
+                                "ColorType": {
+                                    "_color": {
+                                        "r": 0.0,
+                                        "g": 0.0,
+                                        "b": 0.0,
+                                        "a": 0.0
+                                    },
+                                    "InitValue": {
+                                        "r": 0.0,
+                                        "g": 0.0,
+                                        "b": 0.0,
+                                        "a": 0.0
+                                    },
+                                    "$type": "ColorType"
+                                }
+                            },
+                            "Thumb": {
+                                "ResourceType": {
+                                    "resourcePath": "thumbCube",
+                                    "fullPath": "Assets/Demo/04_Advanced/Resources/thumbCube.png",
+                                    "objType": "Texture2D",
+                                    "icon": "Texture2D Icon",
+                                    "$type": "ResourceType"
+                                }
+                            },
+                            "Go": {
+                                "ResourceType": {
+                                    "resourcePath": "Cube",
+                                    "fullPath": "Assets/Demo/04_Advanced/Resources/Cube.prefab",
+                                    "objType": "GameObject",
+                                    "icon": "d_Prefab Icon",
+                                    "$type": "ResourceType"
+                                }
+                            },
+                            "CoroutineOffset": {
+                                "FloatType": {
+                                    "_float": 0.0,
+                                    "InitValue": 0.0,
+                                    "$type": "FloatType"
+                                }
+                            },
+                            "Tech": {
+                                "TechType": {
+                                    "ResearchTime": 3.0,
+                                    "DataTable": "Assets",
+                                    "Dependency": "Cube",
+                                    "IsRootLevel": true,
+                                    "_unlocked": true,
+                                    "InitUnlocked": true,
+                                    "_isResearched": true,
+                                    "InitIsResearched": true,
+                                    "$type": "TechType"
+                                }
+                            }
+                        }
+                    }
+                },
+                {
+                    "Key": "-43648",
+                    "Value": {
+                        "selected": false,
+                        "data": {
+                            "Position": {
+                                "Vector3Type": {
+                                    "Value": {
+                                        "x": 1.0,
+                                        "y": 0.0,
+                                        "z": 31.0
+                                    },
+                                    "_vector3": {
+                                        "x": 1.0,
+                                        "y": 0.0,
+                                        "z": 31.0
+                                    },
+                                    "InitValue": {
+                                        "x": 0.0,
+                                        "y": 0.0,
+                                        "z": 0.0
+                                    },
+                                    "$type": "Vector3Type"
+                                }
+                            },
+                            "Color": {
+                                "ColorType": {
+                                    "_color": {
+                                        "r": 0.0,
+                                        "g": 0.0,
+                                        "b": 0.0,
+                                        "a": 0.0
+                                    },
+                                    "InitValue": {
+                                        "r": 0.0,
+                                        "g": 0.0,
+                                        "b": 0.0,
+                                        "a": 0.0
+                                    },
+                                    "$type": "ColorType"
+                                }
+                            },
+                            "Thumb": {
+                                "ResourceType": {
+                                    "resourcePath": "thumbCube",
+                                    "fullPath": "Assets/Demo/04_Advanced/Resources/thumbCube.png",
+                                    "objType": "Texture2D",
+                                    "icon": "Texture2D Icon",
+                                    "$type": "ResourceType"
+                                }
+                            },
+                            "Go": {
+                                "ResourceType": {
+                                    "resourcePath": "Cube",
+                                    "fullPath": "Assets/Demo/04_Advanced/Resources/Cube.prefab",
+                                    "objType": "GameObject",
+                                    "icon": "d_Prefab Icon",
+                                    "$type": "ResourceType"
+                                }
+                            },
+                            "CoroutineOffset": {
+                                "FloatType": {
+                                    "_float": 0.0,
+                                    "InitValue": 0.0,
+                                    "$type": "FloatType"
+                                }
+                            },
+                            "Tech": {
+                                "TechType": {
+                                    "ResearchTime": 3.0,
+                                    "DataTable": "Assets",
+                                    "Dependency": "Cube",
+                                    "IsRootLevel": true,
+                                    "_unlocked": true,
+                                    "InitUnlocked": true,
+                                    "_isResearched": true,
+                                    "InitIsResearched": true,
+                                    "$type": "TechType"
+                                }
+                            }
+                        }
+                    }
+                },
+                {
+                    "Key": "-43664",
+                    "Value": {
+                        "selected": false,
+                        "data": {
+                            "Position": {
+                                "Vector3Type": {
+                                    "Value": {
+                                        "x": 7.0,
+                                        "y": 0.0,
+                                        "z": 24.0
+                                    },
+                                    "_vector3": {
+                                        "x": 7.0,
+                                        "y": 0.0,
+                                        "z": 24.0
+                                    },
+                                    "InitValue": {
+                                        "x": 0.0,
+                                        "y": 0.0,
+                                        "z": 0.0
+                                    },
+                                    "$type": "Vector3Type"
+                                }
+                            },
+                            "Color": {
+                                "ColorType": {
+                                    "_color": {
+                                        "r": 0.0,
+                                        "g": 0.0,
+                                        "b": 0.0,
+                                        "a": 0.0
+                                    },
+                                    "InitValue": {
+                                        "r": 0.0,
+                                        "g": 0.0,
+                                        "b": 0.0,
+                                        "a": 0.0
+                                    },
+                                    "$type": "ColorType"
+                                }
+                            },
+                            "Thumb": {
+                                "ResourceType": {
+                                    "resourcePath": "thumbCube",
+                                    "fullPath": "Assets/Demo/04_Advanced/Resources/thumbCube.png",
+                                    "objType": "Texture2D",
+                                    "icon": "Texture2D Icon",
+                                    "$type": "ResourceType"
+                                }
+                            },
+                            "Go": {
+                                "ResourceType": {
+                                    "resourcePath": "Cube",
+                                    "fullPath": "Assets/Demo/04_Advanced/Resources/Cube.prefab",
+                                    "objType": "GameObject",
+                                    "icon": "d_Prefab Icon",
+                                    "$type": "ResourceType"
+                                }
+                            },
+                            "CoroutineOffset": {
+                                "FloatType": {
+                                    "_float": 0.0,
+                                    "InitValue": 0.0,
+                                    "$type": "FloatType"
+                                }
+                            },
+                            "Tech": {
+                                "TechType": {
+                                    "ResearchTime": 3.0,
+                                    "DataTable": "Assets",
+                                    "Dependency": "Cube",
+                                    "IsRootLevel": true,
+                                    "_unlocked": true,
+                                    "InitUnlocked": true,
+                                    "_isResearched": true,
+                                    "InitIsResearched": true,
+                                    "$type": "TechType"
+                                }
+                            }
+                        }
+                    }
+                },
+                {
+                    "Key": "-43758",
+                    "Value": {
+                        "selected": false,
+                        "data": {
+                            "Position": {
+                                "Vector3Type": {
+                                    "Value": {
+                                        "x": -21.0,
+                                        "y": 0.0,
+                                        "z": -21.0
+                                    },
+                                    "_vector3": {
+                                        "x": -21.0,
+                                        "y": 0.0,
+                                        "z": -21.0
+                                    },
+                                    "InitValue": {
+                                        "x": 0.0,
+                                        "y": 0.0,
+                                        "z": 0.0
+                                    },
+                                    "$type": "Vector3Type"
+                                }
+                            },
+                            "Color": {
+                                "ColorType": {
+                                    "_color": {
+                                        "r": 0.0,
+                                        "g": 0.0,
+                                        "b": 0.0,
+                                        "a": 0.0
+                                    },
+                                    "InitValue": {
+                                        "r": 0.0,
+                                        "g": 0.0,
+                                        "b": 0.0,
+                                        "a": 0.0
+                                    },
+                                    "$type": "ColorType"
+                                }
+                            },
+                            "Thumb": {
+                                "ResourceType": {
+                                    "resourcePath": "thumbCube",
+                                    "fullPath": "Assets/Demo/04_Advanced/Resources/thumbCube.png",
+                                    "objType": "Texture2D",
+                                    "icon": "Texture2D Icon",
+                                    "$type": "ResourceType"
+                                }
+                            },
+                            "Go": {
+                                "ResourceType": {
+                                    "resourcePath": "Cube",
+                                    "fullPath": "Assets/Demo/04_Advanced/Resources/Cube.prefab",
+                                    "objType": "GameObject",
+                                    "icon": "d_Prefab Icon",
+                                    "$type": "ResourceType"
+                                }
+                            },
+                            "CoroutineOffset": {
+                                "FloatType": {
+                                    "_float": 0.0,
+                                    "InitValue": 0.0,
+                                    "$type": "FloatType"
+                                }
+                            },
+                            "Tech": {
+                                "TechType": {
+                                    "ResearchTime": 3.0,
+                                    "DataTable": "Assets",
+                                    "Dependency": "Cube",
+                                    "IsRootLevel": true,
+                                    "_unlocked": true,
+                                    "InitUnlocked": true,
+                                    "_isResearched": true,
+                                    "InitIsResearched": true,
+                                    "$type": "TechType"
+                                }
+                            }
+                        }
+                    }
+                },
+                {
+                    "Key": "-43878",
+                    "Value": {
+                        "selected": false,
+                        "data": {
+                            "Position": {
+                                "Vector3Type": {
+                                    "Value": {
+                                        "x": -21.0,
+                                        "y": 0.0,
+                                        "z": -21.0
+                                    },
+                                    "_vector3": {
+                                        "x": -21.0,
+                                        "y": 0.0,
+                                        "z": -21.0
+                                    },
+                                    "InitValue": {
+                                        "x": 0.0,
+                                        "y": 0.0,
+                                        "z": 0.0
+                                    },
+                                    "$type": "Vector3Type"
+                                }
+                            },
+                            "Color": {
+                                "ColorType": {
+                                    "_color": {
+                                        "r": 0.0,
+                                        "g": 0.0,
+                                        "b": 0.0,
+                                        "a": 0.0
+                                    },
+                                    "InitValue": {
+                                        "r": 0.0,
+                                        "g": 0.0,
+                                        "b": 0.0,
+                                        "a": 0.0
+                                    },
+                                    "$type": "ColorType"
+                                }
+                            },
+                            "Thumb": {
+                                "ResourceType": {
+                                    "resourcePath": "thumbCube",
+                                    "fullPath": "Assets/Demo/04_Advanced/Resources/thumbCube.png",
+                                    "objType": "Texture2D",
+                                    "icon": "Texture2D Icon",
+                                    "$type": "ResourceType"
+                                }
+                            },
+                            "Go": {
+                                "ResourceType": {
+                                    "resourcePath": "Cube",
+                                    "fullPath": "Assets/Demo/04_Advanced/Resources/Cube.prefab",
+                                    "objType": "GameObject",
+                                    "icon": "d_Prefab Icon",
+                                    "$type": "ResourceType"
+                                }
+                            },
+                            "CoroutineOffset": {
+                                "FloatType": {
+                                    "_float": 0.0,
+                                    "InitValue": 0.0,
+                                    "$type": "FloatType"
+                                }
+                            },
+                            "Tech": {
+                                "TechType": {
+                                    "ResearchTime": 3.0,
+                                    "DataTable": "Assets",
+                                    "Dependency": "Cube",
+                                    "IsRootLevel": true,
+                                    "_unlocked": true,
+                                    "InitUnlocked": true,
+                                    "_isResearched": true,
+                                    "InitIsResearched": true,
+                                    "$type": "TechType"
+                                }
+                            }
+                        }
+                    }
+                },
+                {
+                    "Key": "-43894",
+                    "Value": {
+                        "selected": false,
+                        "data": {
+                            "Position": {
+                                "Vector3Type": {
+                                    "Value": {
+                                        "x": -21.0,
+                                        "y": 0.0,
+                                        "z": -20.0
+                                    },
+                                    "_vector3": {
+                                        "x": -21.0,
+                                        "y": 0.0,
+                                        "z": -20.0
+                                    },
+                                    "InitValue": {
+                                        "x": 0.0,
+                                        "y": 0.0,
+                                        "z": 0.0
+                                    },
+                                    "$type": "Vector3Type"
+                                }
+                            },
+                            "Color": {
+                                "ColorType": {
+                                    "_color": {
+                                        "r": 0.0,
+                                        "g": 0.0,
+                                        "b": 0.0,
+                                        "a": 0.0
+                                    },
+                                    "InitValue": {
+                                        "r": 0.0,
+                                        "g": 0.0,
+                                        "b": 0.0,
+                                        "a": 0.0
+                                    },
+                                    "$type": "ColorType"
+                                }
+                            },
+                            "Thumb": {
+                                "ResourceType": {
+                                    "resourcePath": "thumbCube",
+                                    "fullPath": "Assets/Demo/04_Advanced/Resources/thumbCube.png",
+                                    "objType": "Texture2D",
+                                    "icon": "Texture2D Icon",
+                                    "$type": "ResourceType"
+                                }
+                            },
+                            "Go": {
+                                "ResourceType": {
+                                    "resourcePath": "Cube",
+                                    "fullPath": "Assets/Demo/04_Advanced/Resources/Cube.prefab",
+                                    "objType": "GameObject",
+                                    "icon": "d_Prefab Icon",
+                                    "$type": "ResourceType"
+                                }
+                            },
+                            "CoroutineOffset": {
+                                "FloatType": {
+                                    "_float": 0.0,
+                                    "InitValue": 0.0,
+                                    "$type": "FloatType"
+                                }
+                            },
+                            "Tech": {
+                                "TechType": {
+                                    "ResearchTime": 3.0,
+                                    "DataTable": "Assets",
+                                    "Dependency": "Cube",
+                                    "IsRootLevel": true,
+                                    "_unlocked": true,
+                                    "InitUnlocked": true,
+                                    "_isResearched": true,
+                                    "InitIsResearched": true,
+                                    "$type": "TechType"
+                                }
+                            }
+                        }
+                    }
+                },
+                {
+                    "Key": "-43910",
+                    "Value": {
+                        "selected": false,
+                        "data": {
+                            "Position": {
+                                "Vector3Type": {
+                                    "Value": {
+                                        "x": -41.0,
+                                        "y": 0.0,
+                                        "z": 0.0
+                                    },
+                                    "_vector3": {
+                                        "x": -41.0,
+                                        "y": 0.0,
+                                        "z": 0.0
+                                    },
+                                    "InitValue": {
+                                        "x": 0.0,
+                                        "y": 0.0,
+                                        "z": 0.0
+                                    },
+                                    "$type": "Vector3Type"
+                                }
+                            },
+                            "Color": {
+                                "ColorType": {
+                                    "_color": {
+                                        "r": 0.0,
+                                        "g": 0.0,
+                                        "b": 0.0,
+                                        "a": 0.0
+                                    },
+                                    "InitValue": {
+                                        "r": 0.0,
+                                        "g": 0.0,
+                                        "b": 0.0,
+                                        "a": 0.0
+                                    },
+                                    "$type": "ColorType"
+                                }
+                            },
+                            "Thumb": {
+                                "ResourceType": {
+                                    "resourcePath": "thumbCube",
+                                    "fullPath": "Assets/Demo/04_Advanced/Resources/thumbCube.png",
+                                    "objType": "Texture2D",
+                                    "icon": "Texture2D Icon",
+                                    "$type": "ResourceType"
+                                }
+                            },
+                            "Go": {
+                                "ResourceType": {
+                                    "resourcePath": "Cube",
+                                    "fullPath": "Assets/Demo/04_Advanced/Resources/Cube.prefab",
+                                    "objType": "GameObject",
+                                    "icon": "d_Prefab Icon",
+                                    "$type": "ResourceType"
+                                }
+                            },
+                            "CoroutineOffset": {
+                                "FloatType": {
+                                    "_float": 0.0,
+                                    "InitValue": 0.0,
+                                    "$type": "FloatType"
+                                }
+                            },
+                            "Tech": {
+                                "TechType": {
+                                    "ResearchTime": 3.0,
+                                    "DataTable": "Assets",
+                                    "Dependency": "Cube",
+                                    "IsRootLevel": true,
+                                    "_unlocked": true,
+                                    "InitUnlocked": true,
+                                    "_isResearched": true,
+                                    "InitIsResearched": true,
+                                    "$type": "TechType"
+                                }
+                            }
+                        }
+                    }
+                },
+                {
+                    "Key": "-44262",
+                    "Value": {
+                        "selected": false,
+                        "data": {
+                            "Position": {
+                                "Vector3Type": {
+                                    "Value": {
+                                        "x": -1.0,
+                                        "y": 0.0,
+                                        "z": 26.0
+                                    },
+                                    "_vector3": {
+                                        "x": -1.0,
+                                        "y": 0.0,
+                                        "z": 26.0
+                                    },
+                                    "InitValue": {
+                                        "x": 0.0,
+                                        "y": 0.0,
+                                        "z": 0.0
+                                    },
+                                    "$type": "Vector3Type"
+                                }
+                            },
+                            "Color": {
+                                "ColorType": {
+                                    "_color": {
+                                        "r": 0.0,
+                                        "g": 0.0,
+                                        "b": 0.0,
+                                        "a": 0.0
+                                    },
+                                    "InitValue": {
+                                        "r": 0.0,
+                                        "g": 0.0,
+                                        "b": 0.0,
+                                        "a": 0.0
+                                    },
+                                    "$type": "ColorType"
+                                }
+                            },
+                            "Thumb": {
+                                "ResourceType": {
+                                    "resourcePath": "thumbCube",
+                                    "fullPath": "Assets/Demo/04_Advanced/Resources/thumbCube.png",
+                                    "objType": "Texture2D",
+                                    "icon": "Texture2D Icon",
+                                    "$type": "ResourceType"
+                                }
+                            },
+                            "Go": {
+                                "ResourceType": {
+                                    "resourcePath": "Cube",
+                                    "fullPath": "Assets/Demo/04_Advanced/Resources/Cube.prefab",
+                                    "objType": "GameObject",
+                                    "icon": "d_Prefab Icon",
+                                    "$type": "ResourceType"
+                                }
+                            },
+                            "CoroutineOffset": {
+                                "FloatType": {
+                                    "_float": 0.0,
+                                    "InitValue": 0.0,
+                                    "$type": "FloatType"
+                                }
+                            },
+                            "Tech": {
+                                "TechType": {
+                                    "ResearchTime": 3.0,
+                                    "DataTable": "Assets",
+                                    "Dependency": "Cube",
+                                    "IsRootLevel": true,
+                                    "_unlocked": true,
+                                    "InitUnlocked": true,
+                                    "_isResearched": true,
+                                    "InitIsResearched": true,
+                                    "$type": "TechType"
+                                }
+                            }
+                        }
+                    }
+                },
+                {
+                    "Key": "-44278",
+                    "Value": {
+                        "selected": false,
+                        "data": {
+                            "Position": {
+                                "Vector3Type": {
+                                    "Value": {
+                                        "x": -19.0,
+                                        "y": 0.0,
+                                        "z": -20.0
+                                    },
+                                    "_vector3": {
+                                        "x": -19.0,
+                                        "y": 0.0,
+                                        "z": -20.0
+                                    },
+                                    "InitValue": {
+                                        "x": 0.0,
+                                        "y": 0.0,
+                                        "z": 0.0
+                                    },
+                                    "$type": "Vector3Type"
+                                }
+                            },
+                            "Color": {
+                                "ColorType": {
+                                    "_color": {
+                                        "r": 0.0,
+                                        "g": 0.0,
+                                        "b": 0.0,
+                                        "a": 0.0
+                                    },
+                                    "InitValue": {
+                                        "r": 0.0,
+                                        "g": 0.0,
+                                        "b": 0.0,
+                                        "a": 0.0
+                                    },
+                                    "$type": "ColorType"
+                                }
+                            },
+                            "Thumb": {
+                                "ResourceType": {
+                                    "resourcePath": "thumbCube",
+                                    "fullPath": "Assets/Demo/04_Advanced/Resources/thumbCube.png",
+                                    "objType": "Texture2D",
+                                    "icon": "Texture2D Icon",
+                                    "$type": "ResourceType"
+                                }
+                            },
+                            "Go": {
+                                "ResourceType": {
+                                    "resourcePath": "Cube",
+                                    "fullPath": "Assets/Demo/04_Advanced/Resources/Cube.prefab",
+                                    "objType": "GameObject",
+                                    "icon": "d_Prefab Icon",
+                                    "$type": "ResourceType"
+                                }
+                            },
+                            "CoroutineOffset": {
+                                "FloatType": {
+                                    "_float": 0.0,
+                                    "InitValue": 0.0,
+                                    "$type": "FloatType"
+                                }
+                            },
+                            "Tech": {
+                                "TechType": {
+                                    "ResearchTime": 3.0,
+                                    "DataTable": "Assets",
+                                    "Dependency": "Cube",
+                                    "IsRootLevel": true,
+                                    "_unlocked": true,
+                                    "InitUnlocked": true,
+                                    "_isResearched": true,
+                                    "InitIsResearched": true,
+                                    "$type": "TechType"
+                                }
+                            }
+                        }
+                    }
+                },
+                {
+                    "Key": "-44424",
+                    "Value": {
+                        "selected": false,
+                        "data": {
+                            "Position": {
+                                "Vector3Type": {
+                                    "Value": {
+                                        "x": -19.0,
+                                        "y": 0.0,
+                                        "z": -21.0
+                                    },
+                                    "_vector3": {
+                                        "x": -19.0,
+                                        "y": 0.0,
+                                        "z": -21.0
+                                    },
+                                    "InitValue": {
+                                        "x": 0.0,
+                                        "y": 0.0,
+                                        "z": 0.0
+                                    },
+                                    "$type": "Vector3Type"
+                                }
+                            },
+                            "Color": {
+                                "ColorType": {
+                                    "_color": {
+                                        "r": 0.0,
+                                        "g": 0.0,
+                                        "b": 0.0,
+                                        "a": 0.0
+                                    },
+                                    "InitValue": {
+                                        "r": 0.0,
+                                        "g": 0.0,
+                                        "b": 0.0,
+                                        "a": 0.0
+                                    },
+                                    "$type": "ColorType"
+                                }
+                            },
+                            "Thumb": {
+                                "ResourceType": {
+                                    "resourcePath": "thumbCube",
+                                    "fullPath": "Assets/Demo/04_Advanced/Resources/thumbCube.png",
+                                    "objType": "Texture2D",
+                                    "icon": "Texture2D Icon",
+                                    "$type": "ResourceType"
+                                }
+                            },
+                            "Go": {
+                                "ResourceType": {
+                                    "resourcePath": "Cube",
+                                    "fullPath": "Assets/Demo/04_Advanced/Resources/Cube.prefab",
+                                    "objType": "GameObject",
+                                    "icon": "d_Prefab Icon",
+                                    "$type": "ResourceType"
+                                }
+                            },
+                            "CoroutineOffset": {
+                                "FloatType": {
+                                    "_float": 0.0,
+                                    "InitValue": 0.0,
+                                    "$type": "FloatType"
+                                }
+                            },
+                            "Tech": {
+                                "TechType": {
+                                    "ResearchTime": 3.0,
+                                    "DataTable": "Assets",
+                                    "Dependency": "Cube",
+                                    "IsRootLevel": true,
+                                    "_unlocked": true,
+                                    "InitUnlocked": true,
+                                    "_isResearched": true,
+                                    "InitIsResearched": true,
+                                    "$type": "TechType"
+                                }
+                            }
+                        }
+                    }
+                },
+                {
+                    "Key": "-44440",
+                    "Value": {
+                        "selected": false,
+                        "data": {
+                            "Position": {
+                                "Vector3Type": {
+                                    "Value": {
+                                        "x": 11.0,
+                                        "y": 0.0,
+                                        "z": 3.0
+                                    },
+                                    "_vector3": {
+                                        "x": 11.0,
+                                        "y": 0.0,
+                                        "z": 3.0
+                                    },
+                                    "InitValue": {
+                                        "x": 0.0,
+                                        "y": 0.0,
+                                        "z": 0.0
+                                    },
+                                    "$type": "Vector3Type"
+                                }
+                            },
+                            "Color": {
+                                "ColorType": {
+                                    "_color": {
+                                        "r": 0.0,
+                                        "g": 0.0,
+                                        "b": 0.0,
+                                        "a": 0.0
+                                    },
+                                    "InitValue": {
+                                        "r": 0.0,
+                                        "g": 0.0,
+                                        "b": 0.0,
+                                        "a": 0.0
+                                    },
+                                    "$type": "ColorType"
+                                }
+                            },
+                            "Thumb": {
+                                "ResourceType": {
+                                    "resourcePath": "thumbCylinder",
+                                    "fullPath": "Assets/Demo/04_Advanced/Resources/thumbCylinder.png",
+                                    "objType": "Texture2D",
+                                    "icon": "Texture2D Icon",
+                                    "$type": "ResourceType"
+                                }
+                            },
+                            "Go": {
+                                "ResourceType": {
+                                    "resourcePath": "Cylinder",
+                                    "fullPath": "Assets/Demo/04_Advanced/Resources/Cylinder.prefab",
+                                    "objType": "GameObject",
+                                    "icon": "d_Prefab Icon",
+                                    "$type": "ResourceType"
+                                }
+                            },
+                            "CoroutineOffset": {
+                                "FloatType": {
+                                    "_float": 0.0,
+                                    "InitValue": 0.0,
+                                    "$type": "FloatType"
+                                }
+                            },
+                            "Tech": {
+                                "TechType": {
+                                    "ResearchTime": 3.0,
+                                    "DataTable": "Assets",
+                                    "Dependency": "Donut",
+                                    "IsRootLevel": false,
+                                    "_unlocked": true,
+                                    "InitUnlocked": false,
+                                    "_isResearched": true,
+                                    "InitIsResearched": false,
+                                    "$type": "TechType"
+                                }
+                            }
+                        }
+                    }
+                },
+                {
+                    "Key": "-44456",
+                    "Value": {
+                        "selected": false,
+                        "data": {
+                            "Position": {
+                                "Vector3Type": {
+                                    "Value": {
+                                        "x": 11.0,
+                                        "y": 0.0,
+                                        "z": 3.0
+                                    },
+                                    "_vector3": {
+                                        "x": 11.0,
+                                        "y": 0.0,
+                                        "z": 3.0
+                                    },
+                                    "InitValue": {
+                                        "x": 0.0,
+                                        "y": 0.0,
+                                        "z": 0.0
+                                    },
+                                    "$type": "Vector3Type"
+                                }
+                            },
+                            "Color": {
+                                "ColorType": {
+                                    "_color": {
+                                        "r": 0.0,
+                                        "g": 0.0,
+                                        "b": 0.0,
+                                        "a": 0.0
+                                    },
+                                    "InitValue": {
+                                        "r": 0.0,
+                                        "g": 0.0,
+                                        "b": 0.0,
+                                        "a": 0.0
+                                    },
+                                    "$type": "ColorType"
+                                }
+                            },
+                            "Thumb": {
+                                "ResourceType": {
+                                    "resourcePath": "thumbCube",
+                                    "fullPath": "Assets/Demo/04_Advanced/Resources/thumbCube.png",
+                                    "objType": "Texture2D",
+                                    "icon": "Texture2D Icon",
+                                    "$type": "ResourceType"
+                                }
+                            },
+                            "Go": {
+                                "ResourceType": {
+                                    "resourcePath": "Cube",
+                                    "fullPath": "Assets/Demo/04_Advanced/Resources/Cube.prefab",
+                                    "objType": "GameObject",
+                                    "icon": "d_Prefab Icon",
+                                    "$type": "ResourceType"
+                                }
+                            },
+                            "CoroutineOffset": {
+                                "FloatType": {
+                                    "_float": 0.0,
+                                    "InitValue": 0.0,
+                                    "$type": "FloatType"
+                                }
+                            },
+                            "Tech": {
+                                "TechType": {
+                                    "ResearchTime": 3.0,
+                                    "DataTable": "Assets",
+                                    "Dependency": "Cube",
+                                    "IsRootLevel": true,
+                                    "_unlocked": true,
+                                    "InitUnlocked": true,
+                                    "_isResearched": true,
+                                    "InitIsResearched": true,
+                                    "$type": "TechType"
+                                }
+                            }
+                        }
+                    }
+                },
+                {
+                    "Key": "-44472",
+                    "Value": {
+                        "selected": false,
+                        "data": {
+                            "Position": {
+                                "Vector3Type": {
+                                    "Value": {
+                                        "x": 6.0,
+                                        "y": 0.0,
+                                        "z": -12.0
+                                    },
+                                    "_vector3": {
+                                        "x": 6.0,
+                                        "y": 0.0,
+                                        "z": -12.0
+                                    },
+                                    "InitValue": {
+                                        "x": 0.0,
+                                        "y": 0.0,
+                                        "z": 0.0
+                                    },
+                                    "$type": "Vector3Type"
+                                }
+                            },
+                            "Color": {
+                                "ColorType": {
+                                    "_color": {
+                                        "r": 0.0,
+                                        "g": 0.0,
+                                        "b": 0.0,
+                                        "a": 0.0
+                                    },
+                                    "InitValue": {
+                                        "r": 0.0,
+                                        "g": 0.0,
+                                        "b": 0.0,
+                                        "a": 0.0
+                                    },
+                                    "$type": "ColorType"
+                                }
+                            },
+                            "Thumb": {
+                                "ResourceType": {
+                                    "resourcePath": "thumbCylinder",
+                                    "fullPath": "Assets/Demo/04_Advanced/Resources/thumbCylinder.png",
+                                    "objType": "Texture2D",
+                                    "icon": "Texture2D Icon",
+                                    "$type": "ResourceType"
+                                }
+                            },
+                            "Go": {
+                                "ResourceType": {
+                                    "resourcePath": "Cylinder",
+                                    "fullPath": "Assets/Demo/04_Advanced/Resources/Cylinder.prefab",
+                                    "objType": "GameObject",
+                                    "icon": "d_Prefab Icon",
+                                    "$type": "ResourceType"
+                                }
+                            },
+                            "CoroutineOffset": {
+                                "FloatType": {
+                                    "_float": 0.0,
+                                    "InitValue": 0.0,
+                                    "$type": "FloatType"
+                                }
+                            },
+                            "Tech": {
+                                "TechType": {
+                                    "ResearchTime": 3.0,
+                                    "DataTable": "Assets",
+                                    "Dependency": "Donut",
+                                    "IsRootLevel": false,
+                                    "_unlocked": true,
+                                    "InitUnlocked": false,
+                                    "_isResearched": true,
+                                    "InitIsResearched": false,
+                                    "$type": "TechType"
+                                }
+                            }
+                        }
+                    }
+                },
+                {
+                    "Key": "-44488",
+                    "Value": {
+                        "selected": false,
+                        "data": {
+                            "Position": {
+                                "Vector3Type": {
+                                    "Value": {
+                                        "x": 6.0,
+                                        "y": 0.0,
+                                        "z": -12.0
+                                    },
+                                    "_vector3": {
+                                        "x": 6.0,
+                                        "y": 0.0,
+                                        "z": -12.0
+                                    },
+                                    "InitValue": {
+                                        "x": 0.0,
+                                        "y": 0.0,
+                                        "z": 0.0
+                                    },
+                                    "$type": "Vector3Type"
+                                }
+                            },
+                            "Color": {
+                                "ColorType": {
+                                    "_color": {
+                                        "r": 0.0,
+                                        "g": 0.0,
+                                        "b": 0.0,
+                                        "a": 0.0
+                                    },
+                                    "InitValue": {
+                                        "r": 0.0,
+                                        "g": 0.0,
+                                        "b": 0.0,
+                                        "a": 0.0
+                                    },
+                                    "$type": "ColorType"
+                                }
+                            },
+                            "Thumb": {
+                                "ResourceType": {
+                                    "resourcePath": "thumbCube",
+                                    "fullPath": "Assets/Demo/04_Advanced/Resources/thumbCube.png",
+                                    "objType": "Texture2D",
+                                    "icon": "Texture2D Icon",
+                                    "$type": "ResourceType"
+                                }
+                            },
+                            "Go": {
+                                "ResourceType": {
+                                    "resourcePath": "Cube",
+                                    "fullPath": "Assets/Demo/04_Advanced/Resources/Cube.prefab",
+                                    "objType": "GameObject",
+                                    "icon": "d_Prefab Icon",
+                                    "$type": "ResourceType"
+                                }
+                            },
+                            "CoroutineOffset": {
+                                "FloatType": {
+                                    "_float": 0.0,
+                                    "InitValue": 0.0,
+                                    "$type": "FloatType"
+                                }
+                            },
+                            "Tech": {
+                                "TechType": {
+                                    "ResearchTime": 3.0,
+                                    "DataTable": "Assets",
+                                    "Dependency": "Cube",
+                                    "IsRootLevel": true,
+                                    "_unlocked": true,
+                                    "InitUnlocked": true,
+                                    "_isResearched": true,
+                                    "InitIsResearched": true,
+                                    "$type": "TechType"
+                                }
+                            }
+                        }
+                    }
+                },
+                {
+                    "Key": "-44504",
+                    "Value": {
+                        "selected": false,
+                        "data": {
+                            "Position": {
+                                "Vector3Type": {
+                                    "Value": {
+                                        "x": -5.0,
+                                        "y": 0.0,
+                                        "z": -10.0
+                                    },
+                                    "_vector3": {
+                                        "x": -5.0,
+                                        "y": 0.0,
+                                        "z": -10.0
+                                    },
+                                    "InitValue": {
+                                        "x": 0.0,
+                                        "y": 0.0,
+                                        "z": 0.0
+                                    },
+                                    "$type": "Vector3Type"
+                                }
+                            },
+                            "Color": {
+                                "ColorType": {
+                                    "_color": {
+                                        "r": 0.0,
+                                        "g": 0.0,
+                                        "b": 0.0,
+                                        "a": 0.0
+                                    },
+                                    "InitValue": {
+                                        "r": 0.0,
+                                        "g": 0.0,
+                                        "b": 0.0,
+                                        "a": 0.0
+                                    },
+                                    "$type": "ColorType"
+                                }
+                            },
+                            "Thumb": {
+                                "ResourceType": {
+                                    "resourcePath": "thumbCylinder",
+                                    "fullPath": "Assets/Demo/04_Advanced/Resources/thumbCylinder.png",
+                                    "objType": "Texture2D",
+                                    "icon": "Texture2D Icon",
+                                    "$type": "ResourceType"
+                                }
+                            },
+                            "Go": {
+                                "ResourceType": {
+                                    "resourcePath": "Cylinder",
+                                    "fullPath": "Assets/Demo/04_Advanced/Resources/Cylinder.prefab",
+                                    "objType": "GameObject",
+                                    "icon": "d_Prefab Icon",
+                                    "$type": "ResourceType"
+                                }
+                            },
+                            "CoroutineOffset": {
+                                "FloatType": {
+                                    "_float": 0.0,
+                                    "InitValue": 0.0,
+                                    "$type": "FloatType"
+                                }
+                            },
+                            "Tech": {
+                                "TechType": {
+                                    "ResearchTime": 3.0,
+                                    "DataTable": "Assets",
+                                    "Dependency": "Donut",
+                                    "IsRootLevel": false,
+                                    "_unlocked": true,
+                                    "InitUnlocked": false,
+                                    "_isResearched": true,
+                                    "InitIsResearched": false,
+                                    "$type": "TechType"
+                                }
+                            }
+                        }
+                    }
+                },
+                {
+                    "Key": "-44520",
+                    "Value": {
+                        "selected": false,
+                        "data": {
+                            "Position": {
+                                "Vector3Type": {
+                                    "Value": {
+                                        "x": -5.0,
+                                        "y": 0.0,
+                                        "z": -10.0
+                                    },
+                                    "_vector3": {
+                                        "x": -5.0,
+                                        "y": 0.0,
+                                        "z": -10.0
+                                    },
+                                    "InitValue": {
+                                        "x": 0.0,
+                                        "y": 0.0,
+                                        "z": 0.0
+                                    },
+                                    "$type": "Vector3Type"
+                                }
+                            },
+                            "Color": {
+                                "ColorType": {
+                                    "_color": {
+                                        "r": 0.0,
+                                        "g": 0.0,
+                                        "b": 0.0,
+                                        "a": 0.0
+                                    },
+                                    "InitValue": {
+                                        "r": 0.0,
+                                        "g": 0.0,
+                                        "b": 0.0,
+                                        "a": 0.0
+                                    },
+                                    "$type": "ColorType"
+                                }
+                            },
+                            "Thumb": {
+                                "ResourceType": {
+                                    "resourcePath": "thumbCube",
+                                    "fullPath": "Assets/Demo/04_Advanced/Resources/thumbCube.png",
+                                    "objType": "Texture2D",
+                                    "icon": "Texture2D Icon",
+                                    "$type": "ResourceType"
+                                }
+                            },
+                            "Go": {
+                                "ResourceType": {
+                                    "resourcePath": "Cube",
+                                    "fullPath": "Assets/Demo/04_Advanced/Resources/Cube.prefab",
+                                    "objType": "GameObject",
+                                    "icon": "d_Prefab Icon",
+                                    "$type": "ResourceType"
+                                }
+                            },
+                            "CoroutineOffset": {
+                                "FloatType": {
+                                    "_float": 0.0,
+                                    "InitValue": 0.0,
+                                    "$type": "FloatType"
+                                }
+                            },
+                            "Tech": {
+                                "TechType": {
+                                    "ResearchTime": 3.0,
+                                    "DataTable": "Assets",
+                                    "Dependency": "Cube",
+                                    "IsRootLevel": true,
+                                    "_unlocked": true,
+                                    "InitUnlocked": true,
+                                    "_isResearched": true,
+                                    "InitIsResearched": true,
+                                    "$type": "TechType"
+                                }
+                            }
+                        }
+                    }
+                },
+                {
+                    "Key": "-44536",
+                    "Value": {
+                        "selected": false,
+                        "data": {
+                            "Position": {
+                                "Vector3Type": {
+                                    "Value": {
+                                        "x": 32.0,
+                                        "y": 0.0,
+                                        "z": -14.0
+                                    },
+                                    "_vector3": {
+                                        "x": 32.0,
+                                        "y": 0.0,
+                                        "z": -14.0
+                                    },
+                                    "InitValue": {
+                                        "x": 0.0,
+                                        "y": 0.0,
+                                        "z": 0.0
+                                    },
+                                    "$type": "Vector3Type"
+                                }
+                            },
+                            "Color": {
+                                "ColorType": {
+                                    "_color": {
+                                        "r": 0.0,
+                                        "g": 0.0,
+                                        "b": 0.0,
+                                        "a": 0.0
+                                    },
+                                    "InitValue": {
+                                        "r": 0.0,
+                                        "g": 0.0,
+                                        "b": 0.0,
+                                        "a": 0.0
+                                    },
+                                    "$type": "ColorType"
+                                }
+                            },
+                            "Thumb": {
+                                "ResourceType": {
+                                    "resourcePath": "thumbCylinder",
+                                    "fullPath": "Assets/Demo/04_Advanced/Resources/thumbCylinder.png",
+                                    "objType": "Texture2D",
+                                    "icon": "Texture2D Icon",
+                                    "$type": "ResourceType"
+                                }
+                            },
+                            "Go": {
+                                "ResourceType": {
+                                    "resourcePath": "Cylinder",
+                                    "fullPath": "Assets/Demo/04_Advanced/Resources/Cylinder.prefab",
+                                    "objType": "GameObject",
+                                    "icon": "d_Prefab Icon",
+                                    "$type": "ResourceType"
+                                }
+                            },
+                            "CoroutineOffset": {
+                                "FloatType": {
+                                    "_float": 0.0,
+                                    "InitValue": 0.0,
+                                    "$type": "FloatType"
+                                }
+                            },
+                            "Tech": {
+                                "TechType": {
+                                    "ResearchTime": 3.0,
+                                    "DataTable": "Assets",
+                                    "Dependency": "Donut",
+                                    "IsRootLevel": false,
+                                    "_unlocked": true,
+                                    "InitUnlocked": false,
+                                    "_isResearched": true,
+                                    "InitIsResearched": false,
+                                    "$type": "TechType"
+                                }
+                            }
+                        }
+                    }
+                },
+                {
+                    "Key": "-44552",
+                    "Value": {
+                        "selected": false,
+                        "data": {
+                            "Position": {
+                                "Vector3Type": {
+                                    "Value": {
+                                        "x": 32.0,
+                                        "y": 0.0,
+                                        "z": -14.0
+                                    },
+                                    "_vector3": {
+                                        "x": 32.0,
+                                        "y": 0.0,
+                                        "z": -14.0
+                                    },
+                                    "InitValue": {
+                                        "x": 0.0,
+                                        "y": 0.0,
+                                        "z": 0.0
+                                    },
+                                    "$type": "Vector3Type"
+                                }
+                            },
+                            "Color": {
+                                "ColorType": {
+                                    "_color": {
+                                        "r": 0.0,
+                                        "g": 0.0,
+                                        "b": 0.0,
+                                        "a": 0.0
+                                    },
+                                    "InitValue": {
+                                        "r": 0.0,
+                                        "g": 0.0,
+                                        "b": 0.0,
+                                        "a": 0.0
+                                    },
+                                    "$type": "ColorType"
+                                }
+                            },
+                            "Thumb": {
+                                "ResourceType": {
+                                    "resourcePath": "thumbCube",
+                                    "fullPath": "Assets/Demo/04_Advanced/Resources/thumbCube.png",
+                                    "objType": "Texture2D",
+                                    "icon": "Texture2D Icon",
+                                    "$type": "ResourceType"
+                                }
+                            },
+                            "Go": {
+                                "ResourceType": {
+                                    "resourcePath": "Cube",
+                                    "fullPath": "Assets/Demo/04_Advanced/Resources/Cube.prefab",
+                                    "objType": "GameObject",
+                                    "icon": "d_Prefab Icon",
+                                    "$type": "ResourceType"
+                                }
+                            },
+                            "CoroutineOffset": {
+                                "FloatType": {
+                                    "_float": 0.0,
+                                    "InitValue": 0.0,
+                                    "$type": "FloatType"
+                                }
+                            },
+                            "Tech": {
+                                "TechType": {
+                                    "ResearchTime": 3.0,
+                                    "DataTable": "Assets",
+                                    "Dependency": "Cube",
+                                    "IsRootLevel": true,
+                                    "_unlocked": true,
+                                    "InitUnlocked": true,
+                                    "_isResearched": true,
+                                    "InitIsResearched": true,
+                                    "$type": "TechType"
+                                }
+                            }
+                        }
+                    }
+                }
+            ]
+        }
+    }
+]
