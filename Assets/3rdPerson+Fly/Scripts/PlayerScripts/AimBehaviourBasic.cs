@@ -1,5 +1,6 @@
 ﻿using UnityEngine;
 using System.Collections;
+using Databox;
 
 // AimBehaviour inherits from GenericBehaviour. This class corresponds to aim and strafe behaviour.
 public class AimBehaviourBasic : GenericBehaviour
@@ -12,12 +13,17 @@ public class AimBehaviourBasic : GenericBehaviour
 
 	private int aimBool;                                                  // Animator variable related to aiming.
 	private bool aim;                                                     // Boolean to determine whether or not the player is aiming.
+    IntType value;
 
     public GameObject item, hand, pokeBallContainer;
     public Vector3 offset;
     public float throwForce = 1.0f;
+    public DataboxObjectLink data;
+
     bool grabbed;
     Camera cam = Camera.main;
+
+
 	// Start is always called after any Awake functions.
 	void Start ()
 	{
@@ -32,7 +38,7 @@ public class AimBehaviourBasic : GenericBehaviour
 		if (Input.GetAxisRaw(aimButton) != 0 && !aim)
 		{
 			StartCoroutine(ToggleAimOn());
-            if (!item.activeInHierarchy)
+            if (!item.activeInHierarchy && data.database.GetData<IntType>("Data", "Player", "Pokeballs").Value > 0)
             {
                 item.SetActive(true);
             }
@@ -46,7 +52,9 @@ public class AimBehaviourBasic : GenericBehaviour
 
         if (Input.GetButton("Fire1") && item.activeInHierarchy)
         {
-            Debug.Log("yo");
+
+            value = data.database.GetData<IntType>("Data", "Player", "Pokeballs");
+            value.Value = value.Value - 1;
             item.SetActive(false);
             GameObject pokeBall = Instantiate(pokeBallContainer, item.transform.position, item.transform.rotation);
             pokeBall.GetComponent<Rigidbody>().AddForce(Camera.main.ViewportPointToRay(new Vector3(0.47f, 0.55f, 0f)).direction *throwForce, ForceMode.Impulse);
@@ -105,6 +113,9 @@ public class AimBehaviourBasic : GenericBehaviour
 
     private IEnumerator PokeballCheck(GameObject p)
     {
+
+        data.database.SetData<IntType>("Data", "Player", "Pokeballs", value);
+        Debug.Log(value.Value);
         yield return new WaitForSeconds(3);
         Destroy(p);
     }
