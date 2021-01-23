@@ -21,7 +21,7 @@ public class AimBehaviourBasic : GenericBehaviour
     public DataboxObjectLink data;
 
     bool grabbed;
-    Camera cam = Camera.main;
+    Camera cam;
 
 
 	// Start is always called after any Awake functions.
@@ -29,6 +29,8 @@ public class AimBehaviourBasic : GenericBehaviour
 	{
 		// Set up the references.
 		aimBool = Animator.StringToHash("Aim");
+
+        cam = Camera.main;
 	}
 
 	// Update is used to set features regardless the active behaviour.

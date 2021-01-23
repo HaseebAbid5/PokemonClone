@@ -158,7 +158,7 @@ namespace Databox
 					break;	
 				case UIType.Text:
 					text = this.GetComponent<Text>();
-					break;
+                    break;
 				case UIType.Dropdown:
 					dropdown = this.GetComponent<Dropdown>();
 					dropdown.onValueChanged.AddListener(delegate {SetValueInt(dropdown.value); });
