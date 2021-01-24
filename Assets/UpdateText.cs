@@ -12,5 +12,6 @@ public class UpdateText : MonoBehaviour
     private void Update()
     {
         text.text = data.GetData<IntType>("Data", "Player", "Pokeballs").Value.ToString();
+        
     }
 }
