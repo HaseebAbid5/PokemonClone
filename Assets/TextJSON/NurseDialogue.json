@@ -1,0 +1,32 @@
+[
+	{
+		"title": "Start",
+		"tags": "",
+		"body": "Welcome to the Pokemon Center! How may I help you?\n\n[[ Heal my team |heal]]\n[[ I gotta go... |exit]] ]]",
+		"position": {
+			"x": 616,
+			"y": 158
+		},
+		"colorID": 2
+	},
+	{
+		"title": "heal",
+		"tags": "",
+		"body": "Ill take your Pokemon and get em nice and comfy",
+		"position": {
+			"x": 469,
+			"y": 498
+		},
+		"colorID": 8
+	},
+	{
+		"title": "exit",
+		"tags": "",
+		"body": "Bye Bye",
+		"position": {
+			"x": 757,
+			"y": 500
+		},
+		"colorID": 8
+	}
+]
