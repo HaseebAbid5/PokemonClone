@@ -1,83 +1,232 @@
 fileFormatVersion: 2
 guid: dfe1e2f982b92884997becc35a4562b0
 ModelImporter:
-  serializedVersion: 22
-  fileIDToRecycleName:
-    100000: Armature.003
-    100002: backfinger.L
-    100004: backfinger.R
-    100006: Bone
-    100008: finger.L
-    100010: finger.L.001
-    100012: finger.L.001_end
-    100014: finger.L.002
-    100016: finger.L.002_end
-    100018: finger.L_end
-    100020: finger.R
-    100022: finger.R.001
-    100024: finger.R.001_end
-    100026: finger.R.002
-    100028: finger.R.002_end
-    100030: finger.R_end
-    100032: foot.L
-    100034: foot.R
-    100036: head
-    100038: head_end
-    100040: Kiwi
-    100042: //RootNode
-    100044: leg.L
-    100046: leg.L_end
-    100048: leg.R
-    100050: leg.R_end
-    100052: spine
-    100054: spine.001
-    100056: spine.002
-    100058: thigh.L
-    100060: thigh.R
-    400000: Armature.003
-    400002: backfinger.L
-    400004: backfinger.R
-    400006: Bone
-    400008: finger.L
-    400010: finger.L.001
-    400012: finger.L.001_end
-    400014: finger.L.002
-    400016: finger.L.002_end
-    400018: finger.L_end
-    400020: finger.R
-    400022: finger.R.001
-    400024: finger.R.001_end
-    400026: finger.R.002
-    400028: finger.R.002_end
-    400030: finger.R_end
-    400032: foot.L
-    400034: foot.R
-    400036: head
-    400038: head_end
-    400040: Kiwi
-    400042: //RootNode
-    400044: leg.L
-    400046: leg.L_end
-    400048: leg.R
-    400050: leg.R_end
-    400052: spine
-    400054: spine.001
-    400056: spine.002
-    400058: thigh.L
-    400060: thigh.R
-    2100000: Kiwi_Material
-    4300000: Kiwi
-    7400000: Armature.003|0_Racoon_Empty
-    7400002: Armature.003|EmptyAction
-    7400004: Armature.003|Kiwi_Falling
-    7400006: Armature.003|Kiwi_Idle
-    7400008: Armature.003|Kiwi_Jump
-    7400010: Armature.003|Kiwi_Run
-    9500000: //RootNode
-    13700000: Kiwi
-  externalObjects: {}
+  serializedVersion: 20200
+  internalIDToNameTable:
+  - first:
+      1: 100000
+    second: Armature.003
+  - first:
+      1: 100002
+    second: backfinger.L
+  - first:
+      1: 100004
+    second: backfinger.R
+  - first:
+      1: 100006
+    second: Bone
+  - first:
+      1: 100008
+    second: finger.L
+  - first:
+      1: 100010
+    second: finger.L.001
+  - first:
+      1: 100012
+    second: finger.L.001_end
+  - first:
+      1: 100014
+    second: finger.L.002
+  - first:
+      1: 100016
+    second: finger.L.002_end
+  - first:
+      1: 100018
+    second: finger.L_end
+  - first:
+      1: 100020
+    second: finger.R
+  - first:
+      1: 100022
+    second: finger.R.001
+  - first:
+      1: 100024
+    second: finger.R.001_end
+  - first:
+      1: 100026
+    second: finger.R.002
+  - first:
+      1: 100028
+    second: finger.R.002_end
+  - first:
+      1: 100030
+    second: finger.R_end
+  - first:
+      1: 100032
+    second: foot.L
+  - first:
+      1: 100034
+    second: foot.R
+  - first:
+      1: 100036
+    second: head
+  - first:
+      1: 100038
+    second: head_end
+  - first:
+      1: 100040
+    second: Kiwi
+  - first:
+      1: 100042
+    second: //RootNode
+  - first:
+      1: 100044
+    second: leg.L
+  - first:
+      1: 100046
+    second: leg.L_end
+  - first:
+      1: 100048
+    second: leg.R
+  - first:
+      1: 100050
+    second: leg.R_end
+  - first:
+      1: 100052
+    second: spine
+  - first:
+      1: 100054
+    second: spine.001
+  - first:
+      1: 100056
+    second: spine.002
+  - first:
+      1: 100058
+    second: thigh.L
+  - first:
+      1: 100060
+    second: thigh.R
+  - first:
+      4: 400000
+    second: Armature.003
+  - first:
+      4: 400002
+    second: backfinger.L
+  - first:
+      4: 400004
+    second: backfinger.R
+  - first:
+      4: 400006
+    second: Bone
+  - first:
+      4: 400008
+    second: finger.L
+  - first:
+      4: 400010
+    second: finger.L.001
+  - first:
+      4: 400012
+    second: finger.L.001_end
+  - first:
+      4: 400014
+    second: finger.L.002
+  - first:
+      4: 400016
+    second: finger.L.002_end
+  - first:
+      4: 400018
+    second: finger.L_end
+  - first:
+      4: 400020
+    second: finger.R
+  - first:
+      4: 400022
+    second: finger.R.001
+  - first:
+      4: 400024
+    second: finger.R.001_end
+  - first:
+      4: 400026
+    second: finger.R.002
+  - first:
+      4: 400028
+    second: finger.R.002_end
+  - first:
+      4: 400030
+    second: finger.R_end
+  - first:
+      4: 400032
+    second: foot.L
+  - first:
+      4: 400034
+    second: foot.R
+  - first:
+      4: 400036
+    second: head
+  - first:
+      4: 400038
+    second: head_end
+  - first:
+      4: 400040
+    second: Kiwi
+  - first:
+      4: 400042
+    second: //RootNode
+  - first:
+      4: 400044
+    second: leg.L
+  - first:
+      4: 400046
+    second: leg.L_end
+  - first:
+      4: 400048
+    second: leg.R
+  - first:
+      4: 400050
+    second: leg.R_end
+  - first:
+      4: 400052
+    second: spine
+  - first:
+      4: 400054
+    second: spine.001
+  - first:
+      4: 400056
+    second: spine.002
+  - first:
+      4: 400058
+    second: thigh.L
+  - first:
+      4: 400060
+    second: thigh.R
+  - first:
+      21: 2100000
+    second: Kiwi_Material
+  - first:
+      43: 4300000
+    second: Kiwi
+  - first:
+      74: 7400000
+    second: Armature.003|0_Racoon_Empty
+  - first:
+      74: 7400002
+    second: Armature.003|EmptyAction
+  - first:
+      74: 7400004
+    second: Armature.003|Kiwi_Falling
+  - first:
+      74: 7400006
+    second: Armature.003|Kiwi_Idle
+  - first:
+      74: 7400008
+    second: Armature.003|Kiwi_Jump
+  - first:
+      74: 7400010
+    second: Armature.003|Kiwi_Run
+  - first:
+      95: 9500000
+    second: //RootNode
+  - first:
+      137: 13700000
+    second: Kiwi
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Kiwi_Material
+    second: {fileID: 2100000, guid: 810939049944ee242b42c568527295d7, type: 2}
   materials:
-    importMaterials: 1
+    materialImportMode: 1
     materialName: 0
     materialSearch: 1
     materialLocation: 1
@@ -106,6 +255,7 @@ ModelImporter:
     - serializedVersion: 16
       name: Armature.003|0_Racoon_Empty
       takeName: Armature.003|0_Racoon_Empty
+      internalID: 0
       firstFrame: 0
       lastFrame: 1
       wrapMode: 0
@@ -134,6 +284,7 @@ ModelImporter:
     - serializedVersion: 16
       name: Armature.003|EmptyAction
       takeName: Armature.003|EmptyAction
+      internalID: 0
       firstFrame: 0
       lastFrame: 300
       wrapMode: 0
@@ -162,6 +313,7 @@ ModelImporter:
     - serializedVersion: 16
       name: Armature.003|Kiwi_Falling
       takeName: Armature.003|Kiwi_Falling
+      internalID: 0
       firstFrame: 0
       lastFrame: 60
       wrapMode: 0
@@ -190,6 +342,7 @@ ModelImporter:
     - serializedVersion: 16
       name: Armature.003|Kiwi_Idle
       takeName: Armature.003|Kiwi_Idle
+      internalID: 0
       firstFrame: 0
       lastFrame: 60
       wrapMode: 0
@@ -218,6 +371,7 @@ ModelImporter:
     - serializedVersion: 16
       name: Armature.003|Kiwi_Jump
       takeName: Armature.003|Kiwi_Jump
+      internalID: 0
       firstFrame: 0
       lastFrame: 5
       wrapMode: 0
@@ -246,6 +400,7 @@ ModelImporter:
     - serializedVersion: 16
       name: Armature.003|Kiwi_Run
       takeName: Armature.003|Kiwi_Run
+      internalID: 0
       firstFrame: 0
       lastFrame: 25
       wrapMode: 0
@@ -274,24 +429,34 @@ ModelImporter:
     isReadable: 1
   meshes:
     lODScreenPercentages: []
-    globalScale: 1
+    globalScale: 2
     meshCompression: 0
     addColliders: 0
+    useSRGBMaterialColor: 1
+    sortHierarchyByName: 1
     importVisibility: 1
     importBlendShapes: 1
     importCameras: 1
     importLights: 1
+    fileIdsGeneration: 1
     swapUVChannels: 0
     generateSecondaryUV: 0
     useFileUnits: 1
-    optimizeMeshForGPU: 1
     keepQuads: 0
     weldVertices: 1
+    bakeAxisConversion: 0
     preserveHierarchy: 0
+    skinWeightsMode: 0
+    maxBonesPerVertex: 4
+    minBoneWeight: 0.001
+    meshOptimizationFlags: -1
     indexFormat: 0
     secondaryUVAngleDistortion: 8
     secondaryUVAreaDistortion: 15.000001
     secondaryUVHardAngle: 88
+    secondaryUVMarginMethod: 0
+    secondaryUVMinLightmapResolution: 40
+    secondaryUVMinObjectScale: 1
     secondaryUVPackMargin: 4
     useFileScale: 1
   tangentSpace:
@@ -299,10 +464,13 @@ ModelImporter:
     normalImportMode: 0
     tangentImportMode: 3
     normalCalculationMode: 4
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 1
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  referencedClips: []
   importAnimation: 1
-  copyAvatar: 0
   humanDescription:
-    serializedVersion: 2
+    serializedVersion: 3
     human: []
     skeleton: []
     armTwist: 0.5
@@ -312,14 +480,17 @@ ModelImporter:
     armStretch: 0.05
     legStretch: 0.05
     feetSpacing: 0
+    globalScale: 0.02
     rootMotionBoneName: 
-    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
     hasTranslationDoF: 0
     hasExtraRoot: 0
     skeletonHasParents: 1
   lastHumanDescriptionAvatarSource: {instanceID: 0}
+  autoGenerateAvatarMappingIfUnspecified: 1
   animationType: 2
   humanoidOversampling: 1
+  avatarSetup: 1
+  addHumanoidExtraRootOnlyWhenUsingAvatar: 0
   additionalBone: 0
   userData: 
   assetBundleName: 

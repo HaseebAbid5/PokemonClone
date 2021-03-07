@@ -5,7 +5,7 @@ using UnityEngine;
 public class PlayerFollow : MonoBehaviour
 {
 
-    public GameObject player;
+    GameObject player;
     public float range = 5.0f, speed = 2.0f, space = 2.0f, initSpeed = 0f, boost = 1f, buffer;
     public Vector3 offset;
 
@@ -13,6 +13,7 @@ public class PlayerFollow : MonoBehaviour
     // Start is called before the first frame update
     void Start()
     {
+        player = GameObject.FindWithTag("Player");
         initSpeed = speed;
     }
 
