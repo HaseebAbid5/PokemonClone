@@ -4,7 +4,7 @@ using UnityEngine;
 
 public class CurrentCreature : MonoBehaviour
 {
-    [SerializeField] CreatureBase _base1,_base2;
+    [SerializeField] CreatureBase _base1,_base2, _base3;
     [SerializeField] int level;
     [SerializeField] Transform spawnPoint;
 
@@ -24,6 +24,9 @@ public class CurrentCreature : MonoBehaviour
         }
         if(Input.GetKeyDown(KeyCode.Keypad2)){
             CreatureUpdate(_base2);
+        }
+        if(Input.GetKeyDown(KeyCode.Keypad3)){
+            CreatureUpdate(_base3);
         }
 
         Debug.Log(creature.MaxHP);

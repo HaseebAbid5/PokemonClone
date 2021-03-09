@@ -1,83 +1,232 @@
 fileFormatVersion: 2
 guid: cb82b345de231ce4d962db8385c38310
 ModelImporter:
-  serializedVersion: 22
-  fileIDToRecycleName:
-    100000: arm.L
-    100002: arm.R
-    100004: Armature.002
-    100006: Bone
-    100008: foot.L
-    100010: foot.L_end
-    100012: foot.R
-    100014: foot.R_end
-    100016: forearm.L
-    100018: forearm.R
-    100020: hand.L
-    100022: hand.L_end
-    100024: hand.R
-    100026: hand.R_end
-    100028: head
-    100030: head_end
-    100032: raccoon
-    100034: //RootNode
-    100036: shin.L
-    100038: shin.R
-    100040: spine
-    100042: spine.001
-    100044: spine.002
-    100046: tail
-    100048: tail.001
-    100050: tail.002
-    100052: tail.003
-    100054: tail.003_end
-    100056: tail.004
-    100058: thig.L
-    100060: thig.R
-    400000: arm.L
-    400002: arm.R
-    400004: Armature.002
-    400006: Bone
-    400008: foot.L
-    400010: foot.L_end
-    400012: foot.R
-    400014: foot.R_end
-    400016: forearm.L
-    400018: forearm.R
-    400020: hand.L
-    400022: hand.L_end
-    400024: hand.R
-    400026: hand.R_end
-    400028: head
-    400030: head_end
-    400032: raccoon
-    400034: //RootNode
-    400036: shin.L
-    400038: shin.R
-    400040: spine
-    400042: spine.001
-    400044: spine.002
-    400046: tail
-    400048: tail.001
-    400050: tail.002
-    400052: tail.003
-    400054: tail.003_end
-    400056: tail.004
-    400058: thig.L
-    400060: thig.R
-    2100000: Raccoon_Material
-    4300000: raccoon
-    7400000: Armature.002|0_Racoon_Empty
-    7400002: Armature.002|EmptyAction
-    7400004: Armature.002|Raccoon_cry
-    7400006: Armature.002|Raccoon_Run
-    7400008: Armature.002|Raccoon_Spin
-    7400010: Armature.002|Racoon_Idle
-    9500000: //RootNode
-    13700000: raccoon
-  externalObjects: {}
+  serializedVersion: 20200
+  internalIDToNameTable:
+  - first:
+      1: 100000
+    second: arm.L
+  - first:
+      1: 100002
+    second: arm.R
+  - first:
+      1: 100004
+    second: Armature.002
+  - first:
+      1: 100006
+    second: Bone
+  - first:
+      1: 100008
+    second: foot.L
+  - first:
+      1: 100010
+    second: foot.L_end
+  - first:
+      1: 100012
+    second: foot.R
+  - first:
+      1: 100014
+    second: foot.R_end
+  - first:
+      1: 100016
+    second: forearm.L
+  - first:
+      1: 100018
+    second: forearm.R
+  - first:
+      1: 100020
+    second: hand.L
+  - first:
+      1: 100022
+    second: hand.L_end
+  - first:
+      1: 100024
+    second: hand.R
+  - first:
+      1: 100026
+    second: hand.R_end
+  - first:
+      1: 100028
+    second: head
+  - first:
+      1: 100030
+    second: head_end
+  - first:
+      1: 100032
+    second: raccoon
+  - first:
+      1: 100034
+    second: //RootNode
+  - first:
+      1: 100036
+    second: shin.L
+  - first:
+      1: 100038
+    second: shin.R
+  - first:
+      1: 100040
+    second: spine
+  - first:
+      1: 100042
+    second: spine.001
+  - first:
+      1: 100044
+    second: spine.002
+  - first:
+      1: 100046
+    second: tail
+  - first:
+      1: 100048
+    second: tail.001
+  - first:
+      1: 100050
+    second: tail.002
+  - first:
+      1: 100052
+    second: tail.003
+  - first:
+      1: 100054
+    second: tail.003_end
+  - first:
+      1: 100056
+    second: tail.004
+  - first:
+      1: 100058
+    second: thig.L
+  - first:
+      1: 100060
+    second: thig.R
+  - first:
+      4: 400000
+    second: arm.L
+  - first:
+      4: 400002
+    second: arm.R
+  - first:
+      4: 400004
+    second: Armature.002
+  - first:
+      4: 400006
+    second: Bone
+  - first:
+      4: 400008
+    second: foot.L
+  - first:
+      4: 400010
+    second: foot.L_end
+  - first:
+      4: 400012
+    second: foot.R
+  - first:
+      4: 400014
+    second: foot.R_end
+  - first:
+      4: 400016
+    second: forearm.L
+  - first:
+      4: 400018
+    second: forearm.R
+  - first:
+      4: 400020
+    second: hand.L
+  - first:
+      4: 400022
+    second: hand.L_end
+  - first:
+      4: 400024
+    second: hand.R
+  - first:
+      4: 400026
+    second: hand.R_end
+  - first:
+      4: 400028
+    second: head
+  - first:
+      4: 400030
+    second: head_end
+  - first:
+      4: 400032
+    second: raccoon
+  - first:
+      4: 400034
+    second: //RootNode
+  - first:
+      4: 400036
+    second: shin.L
+  - first:
+      4: 400038
+    second: shin.R
+  - first:
+      4: 400040
+    second: spine
+  - first:
+      4: 400042
+    second: spine.001
+  - first:
+      4: 400044
+    second: spine.002
+  - first:
+      4: 400046
+    second: tail
+  - first:
+      4: 400048
+    second: tail.001
+  - first:
+      4: 400050
+    second: tail.002
+  - first:
+      4: 400052
+    second: tail.003
+  - first:
+      4: 400054
+    second: tail.003_end
+  - first:
+      4: 400056
+    second: tail.004
+  - first:
+      4: 400058
+    second: thig.L
+  - first:
+      4: 400060
+    second: thig.R
+  - first:
+      21: 2100000
+    second: Raccoon_Material
+  - first:
+      43: 4300000
+    second: raccoon
+  - first:
+      74: 7400000
+    second: Armature.002|0_Racoon_Empty
+  - first:
+      74: 7400002
+    second: Armature.002|EmptyAction
+  - first:
+      74: 7400004
+    second: Armature.002|Raccoon_cry
+  - first:
+      74: 7400006
+    second: Armature.002|Raccoon_Run
+  - first:
+      74: 7400008
+    second: Armature.002|Raccoon_Spin
+  - first:
+      74: 7400010
+    second: Armature.002|Racoon_Idle
+  - first:
+      95: 9500000
+    second: //RootNode
+  - first:
+      137: 13700000
+    second: raccoon
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Raccoon_Material
+    second: {fileID: 2100000, guid: 3f7bcfbb9051d1d4ca8bebe75be1a81b, type: 2}
   materials:
-    importMaterials: 1
+    materialImportMode: 1
     materialName: 0
     materialSearch: 1
     materialLocation: 1
@@ -106,6 +255,7 @@ ModelImporter:
     - serializedVersion: 16
       name: Armature.002|0_Racoon_Empty
       takeName: Armature.002|0_Racoon_Empty
+      internalID: 0
       firstFrame: 0
       lastFrame: 1
       wrapMode: 0
@@ -134,6 +284,7 @@ ModelImporter:
     - serializedVersion: 16
       name: Armature.002|EmptyAction
       takeName: Armature.002|EmptyAction
+      internalID: 0
       firstFrame: 0
       lastFrame: 300
       wrapMode: 0
@@ -162,6 +313,7 @@ ModelImporter:
     - serializedVersion: 16
       name: Armature.002|Raccoon_cry
       takeName: Armature.002|Raccoon_cry
+      internalID: 0
       firstFrame: 0
       lastFrame: 30
       wrapMode: 0
@@ -190,6 +342,7 @@ ModelImporter:
     - serializedVersion: 16
       name: Armature.002|Raccoon_Run
       takeName: Armature.002|Raccoon_Run
+      internalID: 0
       firstFrame: 0
       lastFrame: 20
       wrapMode: 0
@@ -218,6 +371,7 @@ ModelImporter:
     - serializedVersion: 16
       name: Armature.002|Raccoon_Spin
       takeName: Armature.002|Raccoon_Spin
+      internalID: 0
       firstFrame: 0
       lastFrame: 15
       wrapMode: 0
@@ -246,6 +400,7 @@ ModelImporter:
     - serializedVersion: 16
       name: Armature.002|Racoon_Idle
       takeName: Armature.002|Racoon_Idle
+      internalID: 0
       firstFrame: 0
       lastFrame: 60
       wrapMode: 0
@@ -277,21 +432,31 @@ ModelImporter:
     globalScale: 1
     meshCompression: 0
     addColliders: 0
+    useSRGBMaterialColor: 1
+    sortHierarchyByName: 1
     importVisibility: 1
     importBlendShapes: 1
     importCameras: 1
     importLights: 1
+    fileIdsGeneration: 1
     swapUVChannels: 0
     generateSecondaryUV: 0
     useFileUnits: 1
-    optimizeMeshForGPU: 1
     keepQuads: 0
     weldVertices: 1
+    bakeAxisConversion: 0
     preserveHierarchy: 0
+    skinWeightsMode: 0
+    maxBonesPerVertex: 4
+    minBoneWeight: 0.001
+    meshOptimizationFlags: -1
     indexFormat: 0
     secondaryUVAngleDistortion: 8
     secondaryUVAreaDistortion: 15.000001
     secondaryUVHardAngle: 88
+    secondaryUVMarginMethod: 0
+    secondaryUVMinLightmapResolution: 40
+    secondaryUVMinObjectScale: 1
     secondaryUVPackMargin: 4
     useFileScale: 1
   tangentSpace:
@@ -299,10 +464,13 @@ ModelImporter:
     normalImportMode: 0
     tangentImportMode: 3
     normalCalculationMode: 4
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 1
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  referencedClips: []
   importAnimation: 1
-  copyAvatar: 0
   humanDescription:
-    serializedVersion: 2
+    serializedVersion: 3
     human: []
     skeleton: []
     armTwist: 0.5
@@ -312,14 +480,17 @@ ModelImporter:
     armStretch: 0.05
     legStretch: 0.05
     feetSpacing: 0
+    globalScale: 1
     rootMotionBoneName: 
-    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
     hasTranslationDoF: 0
     hasExtraRoot: 0
     skeletonHasParents: 1
   lastHumanDescriptionAvatarSource: {instanceID: 0}
+  autoGenerateAvatarMappingIfUnspecified: 1
   animationType: 2
   humanoidOversampling: 1
+  avatarSetup: 1
+  addHumanoidExtraRootOnlyWhenUsingAvatar: 0
   additionalBone: 0
   userData: 
   assetBundleName: 

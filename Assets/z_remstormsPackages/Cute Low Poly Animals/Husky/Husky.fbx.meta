@@ -1,87 +1,244 @@
 fileFormatVersion: 2
 guid: de1a4608d52cec842b1d31a3b5237940
 ModelImporter:
-  serializedVersion: 22
-  fileIDToRecycleName:
-    100000: BackElbow_L
-    100002: BackElbow_R
-    100004: backLeg1_L
-    100006: backLeg1_R
-    100008: backLeg2_L
-    100010: backLeg2_R
-    100012: BackPaw_IK_L
-    100014: BackPaw_IK_R
-    100016: backPaw_L
-    100018: backPaw_R
-    100020: Cube
-    100022: ear_L
-    100024: ear_R
-    100026: Eye_L
-    100028: Eye_R
-    100030: Front_Elbow_L
-    100032: Front_Elbow_R
-    100034: frontLeg1_L
-    100036: frontLeg1_R
-    100038: frontLeg2_L
-    100040: frontLeg2_R
-    100042: FrontPaw_IK_L
-    100044: FrontPaw_IK_R
-    100046: frontPaw_L
-    100048: frontPaw_R
-    100050: Head
-    100052: //RootNode
-    100054: Husky_Skeleton
-    100056: RootBone
-    100058: Spine_002
-    100060: Tail
-    100062: Tail_001
-    100064: Tail_002
-    100066: Tail_003
-    400000: BackElbow_L
-    400002: BackElbow_R
-    400004: backLeg1_L
-    400006: backLeg1_R
-    400008: backLeg2_L
-    400010: backLeg2_R
-    400012: BackPaw_IK_L
-    400014: BackPaw_IK_R
-    400016: backPaw_L
-    400018: backPaw_R
-    400020: Cube
-    400022: ear_L
-    400024: ear_R
-    400026: Eye_L
-    400028: Eye_R
-    400030: Front_Elbow_L
-    400032: Front_Elbow_R
-    400034: frontLeg1_L
-    400036: frontLeg1_R
-    400038: frontLeg2_L
-    400040: frontLeg2_R
-    400042: FrontPaw_IK_L
-    400044: FrontPaw_IK_R
-    400046: frontPaw_L
-    400048: frontPaw_R
-    400050: Head
-    400052: //RootNode
-    400054: Husky_Skeleton
-    400056: RootBone
-    400058: Spine_002
-    400060: Tail
-    400062: Tail_001
-    400064: Tail_002
-    400066: Tail_003
-    2100000: Husky_Material__Husky_AO
-    4300000: Cube
-    7400000: 0_Husky_Empty
-    7400002: Husky_Idle_01
-    7400004: Husky_Idle_02
-    7400006: Husky_Walk_01
-    9500000: //RootNode
-    13700000: Cube
-  externalObjects: {}
+  serializedVersion: 20200
+  internalIDToNameTable:
+  - first:
+      1: 100000
+    second: BackElbow_L
+  - first:
+      1: 100002
+    second: BackElbow_R
+  - first:
+      1: 100004
+    second: backLeg1_L
+  - first:
+      1: 100006
+    second: backLeg1_R
+  - first:
+      1: 100008
+    second: backLeg2_L
+  - first:
+      1: 100010
+    second: backLeg2_R
+  - first:
+      1: 100012
+    second: BackPaw_IK_L
+  - first:
+      1: 100014
+    second: BackPaw_IK_R
+  - first:
+      1: 100016
+    second: backPaw_L
+  - first:
+      1: 100018
+    second: backPaw_R
+  - first:
+      1: 100020
+    second: Cube
+  - first:
+      1: 100022
+    second: ear_L
+  - first:
+      1: 100024
+    second: ear_R
+  - first:
+      1: 100026
+    second: Eye_L
+  - first:
+      1: 100028
+    second: Eye_R
+  - first:
+      1: 100030
+    second: Front_Elbow_L
+  - first:
+      1: 100032
+    second: Front_Elbow_R
+  - first:
+      1: 100034
+    second: frontLeg1_L
+  - first:
+      1: 100036
+    second: frontLeg1_R
+  - first:
+      1: 100038
+    second: frontLeg2_L
+  - first:
+      1: 100040
+    second: frontLeg2_R
+  - first:
+      1: 100042
+    second: FrontPaw_IK_L
+  - first:
+      1: 100044
+    second: FrontPaw_IK_R
+  - first:
+      1: 100046
+    second: frontPaw_L
+  - first:
+      1: 100048
+    second: frontPaw_R
+  - first:
+      1: 100050
+    second: Head
+  - first:
+      1: 100052
+    second: //RootNode
+  - first:
+      1: 100054
+    second: Husky_Skeleton
+  - first:
+      1: 100056
+    second: RootBone
+  - first:
+      1: 100058
+    second: Spine_002
+  - first:
+      1: 100060
+    second: Tail
+  - first:
+      1: 100062
+    second: Tail_001
+  - first:
+      1: 100064
+    second: Tail_002
+  - first:
+      1: 100066
+    second: Tail_003
+  - first:
+      4: 400000
+    second: BackElbow_L
+  - first:
+      4: 400002
+    second: BackElbow_R
+  - first:
+      4: 400004
+    second: backLeg1_L
+  - first:
+      4: 400006
+    second: backLeg1_R
+  - first:
+      4: 400008
+    second: backLeg2_L
+  - first:
+      4: 400010
+    second: backLeg2_R
+  - first:
+      4: 400012
+    second: BackPaw_IK_L
+  - first:
+      4: 400014
+    second: BackPaw_IK_R
+  - first:
+      4: 400016
+    second: backPaw_L
+  - first:
+      4: 400018
+    second: backPaw_R
+  - first:
+      4: 400020
+    second: Cube
+  - first:
+      4: 400022
+    second: ear_L
+  - first:
+      4: 400024
+    second: ear_R
+  - first:
+      4: 400026
+    second: Eye_L
+  - first:
+      4: 400028
+    second: Eye_R
+  - first:
+      4: 400030
+    second: Front_Elbow_L
+  - first:
+      4: 400032
+    second: Front_Elbow_R
+  - first:
+      4: 400034
+    second: frontLeg1_L
+  - first:
+      4: 400036
+    second: frontLeg1_R
+  - first:
+      4: 400038
+    second: frontLeg2_L
+  - first:
+      4: 400040
+    second: frontLeg2_R
+  - first:
+      4: 400042
+    second: FrontPaw_IK_L
+  - first:
+      4: 400044
+    second: FrontPaw_IK_R
+  - first:
+      4: 400046
+    second: frontPaw_L
+  - first:
+      4: 400048
+    second: frontPaw_R
+  - first:
+      4: 400050
+    second: Head
+  - first:
+      4: 400052
+    second: //RootNode
+  - first:
+      4: 400054
+    second: Husky_Skeleton
+  - first:
+      4: 400056
+    second: RootBone
+  - first:
+      4: 400058
+    second: Spine_002
+  - first:
+      4: 400060
+    second: Tail
+  - first:
+      4: 400062
+    second: Tail_001
+  - first:
+      4: 400064
+    second: Tail_002
+  - first:
+      4: 400066
+    second: Tail_003
+  - first:
+      21: 2100000
+    second: Husky_Material__Husky_AO
+  - first:
+      43: 4300000
+    second: Cube
+  - first:
+      74: 7400000
+    second: 0_Husky_Empty
+  - first:
+      74: 7400002
+    second: Husky_Idle_01
+  - first:
+      74: 7400004
+    second: Husky_Idle_02
+  - first:
+      74: 7400006
+    second: Husky_Walk_01
+  - first:
+      95: 9500000
+    second: //RootNode
+  - first:
+      137: 13700000
+    second: Cube
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Husky_Material__Husky_AO
+    second: {fileID: 2100000, guid: 62588958a7c6b874ca6fed02fe1e896d, type: 2}
   materials:
-    importMaterials: 1
+    materialImportMode: 1
     materialName: 0
     materialSearch: 1
     materialLocation: 1
@@ -110,6 +267,7 @@ ModelImporter:
     - serializedVersion: 16
       name: 0_Husky_Empty
       takeName: 0_Husky_Empty
+      internalID: 0
       firstFrame: -1
       lastFrame: 0
       wrapMode: 0
@@ -138,6 +296,7 @@ ModelImporter:
     - serializedVersion: 16
       name: Husky_Idle_01
       takeName: Husky_Idle_01
+      internalID: 0
       firstFrame: -1
       lastFrame: 119
       wrapMode: 0
@@ -166,6 +325,7 @@ ModelImporter:
     - serializedVersion: 16
       name: Husky_Idle_02
       takeName: Husky_Idle_02
+      internalID: 0
       firstFrame: -1
       lastFrame: 119
       wrapMode: 0
@@ -194,6 +354,7 @@ ModelImporter:
     - serializedVersion: 16
       name: Husky_Walk_01
       takeName: Husky_Walk_01
+      internalID: 0
       firstFrame: -1
       lastFrame: 39
       wrapMode: 0
@@ -222,24 +383,34 @@ ModelImporter:
     isReadable: 1
   meshes:
     lODScreenPercentages: []
-    globalScale: 1
+    globalScale: 2
     meshCompression: 0
     addColliders: 0
+    useSRGBMaterialColor: 1
+    sortHierarchyByName: 1
     importVisibility: 1
     importBlendShapes: 1
     importCameras: 1
     importLights: 1
+    fileIdsGeneration: 1
     swapUVChannels: 0
     generateSecondaryUV: 0
     useFileUnits: 1
-    optimizeMeshForGPU: 1
     keepQuads: 0
     weldVertices: 1
+    bakeAxisConversion: 0
     preserveHierarchy: 0
+    skinWeightsMode: 0
+    maxBonesPerVertex: 4
+    minBoneWeight: 0.001
+    meshOptimizationFlags: -1
     indexFormat: 0
     secondaryUVAngleDistortion: 8
     secondaryUVAreaDistortion: 15.000001
     secondaryUVHardAngle: 88
+    secondaryUVMarginMethod: 0
+    secondaryUVMinLightmapResolution: 40
+    secondaryUVMinObjectScale: 1
     secondaryUVPackMargin: 4
     useFileScale: 0
   tangentSpace:
@@ -247,10 +418,13 @@ ModelImporter:
     normalImportMode: 0
     tangentImportMode: 3
     normalCalculationMode: 4
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 1
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  referencedClips: []
   importAnimation: 1
-  copyAvatar: 0
   humanDescription:
-    serializedVersion: 2
+    serializedVersion: 3
     human: []
     skeleton: []
     armTwist: 0.5
@@ -260,14 +434,17 @@ ModelImporter:
     armStretch: 0.05
     legStretch: 0.05
     feetSpacing: 0
+    globalScale: 2
     rootMotionBoneName: 
-    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
     hasTranslationDoF: 0
     hasExtraRoot: 0
     skeletonHasParents: 1
   lastHumanDescriptionAvatarSource: {instanceID: 0}
+  autoGenerateAvatarMappingIfUnspecified: 1
   animationType: 2
   humanoidOversampling: 1
+  avatarSetup: 1
+  addHumanoidExtraRootOnlyWhenUsingAvatar: 0
   additionalBone: 0
   userData: 
   assetBundleName: 
